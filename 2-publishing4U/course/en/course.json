@@ -1,6 +1,6 @@
 {
-  "title": "Why should my authority publish open data?",
-  "displayTitle": "Why should my authority publish open data?",
+  "title": "Making publishing work for you?",
+  "displayTitle": "Making publishing work for you?",
   "_latestTrackingId": 13,
   "_learningOutcomes": [
     {
@@ -29,22 +29,94 @@
           "_type": "link",
           "title": "Module 1",
           "description": "Making transparency work for you",
-          "_link": "../making-transparency-work-for-you/",
+          "_link": "../1-transparency4U/",
           "_local": "true"
         },
         {
           "_type": "link",
-          "_local": "true",
           "title": "Module 2",
           "description": "Making publishing work for you",
-          "_link": "../making-publishing-work-for-you/"
+          "_link": "../2-publishing4U/",
+          "_local": "true"
         },
         {
           "_type": "link",
-          "_local": "true",
           "title": "Module 3",
           "description": "Making standards work for you",
-          "_link": "../making-standards-work-for-you/"
+          "_link": "../3-standards4U/",
+          "_local": "true"
+        },
+        {
+          "_type": "link",
+          "title": "Local government inventory tool",
+          "description": "",
+          "_link": "http://inventories.opendata.esd.org.uk/"
+        },
+        {
+          "_type": "link",
+          "title": "Data.gov.uk dataset submission form",
+          "description": "",
+          "_link": "http://guidance.data.gov.uk/dataset_form.html"
+        },
+        {
+          "_type": "link",
+          "title": "Data.gov.uk dataset submission guidance",
+          "description": "",
+          "_link": "https://data.gov.uk/sites/default/files/User%20guide%20v2.5.pdf#page=23"
+        },
+        {
+          "_type": "link",
+          "title": "Local government dataset finder",
+          "description": "",
+          "_link": "http://datasets.opendata.esd.org.uk/"
+        },
+        {
+          "_type": "link",
+          "title": "DCLG open data communities page",
+          "description": "",
+          "_link": "http://opendatacommunities.org/"
+        },
+        {
+          "_type": "link",
+          "title": "SEO guidance document",
+          "description": "",
+          "_link": "http://static.googleusercontent.com/media/www.google.co.uk/en/uk/webmasters/docs/search-engine-optimization-starter-guide.pdf"
+        },
+        {
+          "_type": "link",
+          "title": "National archives redaction toolkit",
+          "description": "",
+          "_link": "http://www.nationalarchives.gov.uk/documents/information-management/redaction_toolkit.pdf"
+        },
+        {
+          "_type": "link",
+          "title": "Local government validator tool",
+          "description": "",
+          "_link": "http://validator.opendata.esd.org.uk/"
+        },
+        {
+          "_type": "link",
+          "title": "",
+          "description": "",
+          "_link": "Local government open data case studis"
+        },
+        {
+          "_type": "link",
+          "title": "Barnet case study",
+          "description": "",
+          "_link": "http://www.local.gov.uk/documents/10180/11655/Barnet+2014-08-22+Open+Data+Breakthrough+Evaluation+Final.pdf/ae8272e0-0256-4e86-a6dc-348b462da7e0"
+        },
+        {
+          "_type": "link",
+          "title": "Wycombe case study",
+          "description": "",
+          "_link": "http://www.wycombe.gov.uk/council-services/council-and-democracy/transparency-and-open-data.aspx"
+        },
+        {
+          "_type": "link",
+          "title": "Norfolk case study",
+          "description": "",
+          "_link": "http://www.local.gov.uk/documents/10180/6211662/Norfolk+Case+Study+formatted+final+25.1.16.pdf/dd25a35f-77b9-4c3d-8634-1631bacce1ef"
         }
       ]
     },
@@ -133,7 +205,7 @@
         {
           "_type": "link",
           "title": "Sponge UK",
-          "description": "<div align='center'><img alt='Sponge UK' style='border-width:0' src='adapt/css/assets/sponge.png' /></div><br />Learning solutions, content production and eLearning expertise provided by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Sponge UK</span>.",
+          "description": "<div align='center'><img alt='Sponge UK' style='border-width:0' src='adapt/css/assets/sponge.png' /></div><br />Learning solutions and eLearning expertise provided by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Sponge UK</span>.",
           "_link": "http://www.spongeuk.com"
         },
         {

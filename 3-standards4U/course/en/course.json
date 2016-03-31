@@ -1,6 +1,6 @@
 {
-  "title": "Why should my authority publish open data?",
-  "displayTitle": "Why should my authority publish open data?",
+  "title": "Making standards work for you",
+  "displayTitle": "Making stadards work for you",
   "_latestTrackingId": 13,
   "_learningOutcomes": [
     {
@@ -29,22 +29,94 @@
           "_type": "link",
           "title": "Module 1",
           "description": "Making transparency work for you",
-          "_link": "../making-transparency-work-for-you/",
+          "_link": "../1-transparency4U/",
           "_local": "true"
         },
         {
           "_type": "link",
-          "_local": "true",
           "title": "Module 2",
           "description": "Making publishing work for you",
-          "_link": "../making-publishing-work-for-you/"
+          "_link": "../2-publishing4U/",
+          "_local": "true"
         },
         {
           "_type": "link",
-          "_local": "true",
           "title": "Module 3",
           "description": "Making standards work for you",
-          "_link": "../making-standards-work-for-you/"
+          "_link": "../3-standards4U/",
+          "_local": "true"
+        },
+        {
+          "_type": "link",
+          "title": "INSPIRE github community",
+          "description": "",
+          "_link": "https://github.com/inspire-eu-validation"
+        },
+        {
+          "_type": "link",
+          "title": "Geospatial standards guidance document",
+          "description": "",
+          "_link": "https://www.geoplace.co.uk/documents/10181/138013/BS7666%20explained"
+        },
+        {
+          "_type": "link",
+          "title": "Local government schema finder tool",
+          "description": "",
+          "_link": "http://schemas.opendata.esd.org.uk/"
+        },
+        {
+          "_type": "link",
+          "title": "Local government URI finder tool",
+          "description": "",
+          "_link": "http://uris.opendata.esd.org.uk/"
+        },
+        {
+          "_type": "link",
+          "title": "Open data communities URI list",
+          "description": "",
+          "_link": "http://opendatacommunities.org/data/local-authorities"
+        },
+        {
+          "_type": "link",
+          "title": "ONS statistical geographies list",
+          "description": "",
+          "_link": "http://tinyurl.com/onsgeog"
+        },
+        {
+          "_type": "link",
+          "title": "ODI certificates site",
+          "description": "",
+          "_link": "https://certificates.theodi.org/en"
+        },
+        {
+          "_type": "link",
+          "title": "Colchester data site",
+          "description": "",
+          "_link": "http://www.colchester.gov.uk/councildata"
+        },
+        {
+          "_type": "link",
+          "title": "Surrey case study",
+          "description": "",
+          "_link": "https://www.youtube.com/watch?v=-Ku9qQk4IGE"
+        },
+        {
+          "_type": "link",
+          "title": "Hampshire planning finder",
+          "description": "",
+          "_link": "http://hampshire-planning.staging.mysociety.org/"
+        },
+        {
+          "_type": "link",
+          "title": "York open data schemas",
+          "description": "",
+          "_link": "https://data.yorkopendata.org/dataset/schemas"
+        },
+        {
+          "_type": "link",
+          "title": "ODI courses page",
+          "description": "",
+          "_link": "http://theodi.org/courses"
         }
       ]
     },
@@ -133,7 +205,7 @@
         {
           "_type": "link",
           "title": "Sponge UK",
-          "description": "<div align='center'><img alt='Sponge UK' style='border-width:0' src='adapt/css/assets/sponge.png' /></div><br />Learning solutions, content production and eLearning expertise provided by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Sponge UK</span>.",
+          "description": "<div align='center'><img alt='Sponge UK' style='border-width:0' src='adapt/css/assets/sponge.png' /></div><br />Learning solutions and eLearning expertise provided by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Sponge UK</span>.",
           "_link": "http://www.spongeuk.com"
         },
         {
