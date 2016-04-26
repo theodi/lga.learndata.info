@@ -27,24 +27,54 @@
       "_resourcesItems": [
         {
           "_type": "link",
+          "_local": "true",
           "title": "Module 1",
           "description": "Making transparency work for you",
-          "_link": "../1-transparency4U/",
-          "_local": "true"
+          "_link": "../1-transparency4U/"
         },
         {
           "_type": "link",
+          "_local": "true",
           "title": "Module 2",
           "description": "Making publishing work for you",
-          "_link": "../2-publishing4U/",
-          "_local": "true"
+          "_link": "../2-publishing4U/"
         },
         {
           "_type": "link",
+          "_local": "true",
           "title": "Module 3",
           "description": "Making standards work for you",
-          "_link": "../3-standards4U/",
-          "_local": "true"
+          "_link": "../3-standards4U/"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "description": "View additional module resources",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
+        {
+          "_type": "link",
+          "title": "Local government INSPIRE compliance guide",
+          "description": "",
+          "_link": "http://www.local.gov.uk/c/document_library/get_file?uuid=ba19b779-eb8d-404c-af07-25ecd921aed9"
+        },
+        {
+          "_type": "link",
+          "title": "Great british toilet map",
+          "description": "",
+          "_link": "http://greatbritishpublictoiletmap.rca.ac.uk/"
+        },
+        {
+          "_type": "link",
+          "title": "iStand UK network",
+          "description": "",
+          "_link": "http://i-network.org.uk/legsb-3/"
         },
         {
           "_type": "link",

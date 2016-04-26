@@ -27,24 +27,54 @@
       "_resourcesItems": [
         {
           "_type": "link",
+          "_local": "true",
           "title": "Module 1",
           "description": "Making transparency work for you",
-          "_link": "../1-transparency4U/",
-          "_local": "true"
+          "_link": "../1-transparency4U/"
         },
         {
           "_type": "link",
+          "_local": "true",
           "title": "Module 2",
           "description": "Making publishing work for you",
-          "_link": "../2-publishing4U/",
-          "_local": "true"
+          "_link": "../2-publishing4U/"
         },
         {
           "_type": "link",
+          "_local": "true",
           "title": "Module 3",
           "description": "Making standards work for you",
-          "_link": "../3-standards4U/",
-          "_local": "true"
+          "_link": "../3-standards4U/"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "description": "View additional module resources",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
+        {
+          "_type": "link",
+          "title": "ODI data cleaning exercise",
+          "description": "",
+          "_link": "http://training.theodi.org/resources/Cleaning_Exercise.pdf"
+        },
+        {
+          "_type": "link",
+          "title": "Location standards proposal",
+          "description": "",
+          "_link": "https://standards.data.gov.uk/proposal/exchange-location-point-information-proposal-version-2?stage=proposal"
+        },
+        {
+          "_type": "link",
+          "title": "Local government URI finder tool",
+          "description": "",
+          "_link": "http://uris.opendata.esd.org.uk/"
         },
         {
           "_type": "link",
