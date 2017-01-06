@@ -1,0 +1,1988 @@
+[
+  {
+    "_id": "584eb2594e62ce485eb144fb",
+    "_layout": "right",
+    "_parentId": "584eb2474e62ce485eb144f9",
+    "_type": "component",
+    "body": "<p>Creating an effective pitch for open data requires five elements. These elements are common to most &#39;elevator pitches&#39; and combine to create a clear, compelling case for action. The pitch should be delivered in 90 seconds or less.</p>\n\n<p>The five components of the perfect pitch are:</p>\n\n<ul>\n\t<li>What it is &ndash; a plain definition of the concept</li>\n\t<li>What is does &ndash; a tailored description of the benefit</li>\n\t<li>Where it&#39;s helped &ndash; a relevant, quantified proof point</li>\n\t<li>Why it&#39;s best &ndash; justification for why it beats other options</li>\n\t<li>What next &ndash; a realistic decision that can be taken on the spot</li>\n</ul>\n\n<p>Below we explore each of these elements in greater detail.</p>\n",
+    "displayTitle": "The five components of the perfect open data pitch",
+    "title": "The five components of the perfect open data pitch",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "584eb7984e62ce485eb14519",
+    "_layout": "left",
+    "_parentId": "584eb7774e62ce485eb14518",
+    "_type": "component",
+    "body": "<p>Once you have made the key points in your pitch for open data, it is vital that you create the conditions for action. Listeners want to be able to take action in response to a pitch. Your task is to create an action that allows them to immediately say yes (or no), without needing to go away to consider it.</p>\n\n<p>Creating an action that someone can decide on at the time means that you are not asking for too much. If the person would need to consult others or consider further, the action is too big. The ideal is an action that is small, clear, and moves the agenda forward.</p>\n\n<p>Good actions include: getting a date in the diary for a follow-up meeting with more people; a commitment to read and respond to a case study relevant to their interests; or them sending a feasibility assessment of using your solution.</p>\n\n<p>Keep the timeframe and impact clear. Finally, only ask for budget or time that is reasonable, given the level of expected return.</p>\n",
+    "displayTitle": "What next?",
+    "title": "What next?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "584eb2554e62ce485eb144fa",
+    "_layout": "left",
+    "_parentId": "584eb2474e62ce485eb144f9",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+      "small": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58407c064d7b7e82691e4b69",
+    "_layout": "right",
+    "_parentId": "58407bac4d7b7e82691e4b61",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/93089975ae667a03fedbc7cdd2e50af87afbed3b.gif",
+      "small": "course/en/assets/93089975ae667a03fedbc7cdd2e50af87afbed3b.gif",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58407c584d7b7e82691e4b6b",
+    "_layout": "left",
+    "_parentId": "58407c4e4d7b7e82691e4b6a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/819c25e749d3a1b08083964d1604b8f29aedc806.png",
+      "small": "course/en/assets/819c25e749d3a1b08083964d1604b8f29aedc806.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584ebf084e62ce485eb14532",
+    "_layout": "right",
+    "_parentId": "584ebef44e62ce485eb14530",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
+      "small": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584ebfbe4e62ce485eb1453b",
+    "_layout": "right",
+    "_parentId": "584ebfa34e62ce485eb14535",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/819c25e749d3a1b08083964d1604b8f29aedc806.png",
+      "small": "course/en/assets/819c25e749d3a1b08083964d1604b8f29aedc806.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584131c74d7b7e82691e4b7a",
+    "_layout": "right",
+    "_parentId": "58407bad4d7b7e82691e4b64",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/93089975ae667a03fedbc7cdd2e50af87afbed3b.gif",
+      "small": "course/en/assets/93089975ae667a03fedbc7cdd2e50af87afbed3b.gif",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584131e34d7b7e82691e4b7d",
+    "_layout": "left",
+    "_parentId": "584131cf4d7b7e82691e4b7b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/36ffe08599a5405fa0f300777ee0a615e5cb9a1a.png",
+      "small": "course/en/assets/36ffe08599a5405fa0f300777ee0a615e5cb9a1a.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "586e657ab61c46e176e7e152",
+    "_layout": "left",
+    "_parentId": "586e5118b61c46e176e7e140",
+    "_type": "component",
+    "body": "<p><strong>Data is...</strong></p>\n",
+    "displayTitle": "What is data?",
+    "title": "What is data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "instruction": "Choose your answer, then click 'Submit'.",
+    "_items": [
+      {
+        "text": "numbers, words, maps and photos.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "information posted on the Web.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "the raw material of information and knowledge.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p>\n\n<p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>\n",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p>\n\n<p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "586e7c70b61c46e176e7e16d",
+    "_layout": "left",
+    "_parentId": "586e7c63b61c46e176e7e16c",
+    "_type": "component",
+    "body": "<p>Open and shared data can be valuable resources for any organisation to make better use of their resources. Whether to develop a clearer picture of operations, reduce inefficiency in supply chains or increase reach, a growing number of organisations now benefit from publishing and using both open and shared data.In this module we have learned&nbsp;how you can deliver a tailored pitch for open data that highlights value and addresses risks. If you are interested in learning more about open data and how it can help local authorities, why not <a href=\"http://lga.learndata.info/1-transparency4U/\">check out these modules</a>?</p>\n",
+    "displayTitle": "Making the case work for you",
+    "title": "Making the case work for you",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "584f42874e62ce485eb14593",
+    "_layout": "left",
+    "_parentId": "584f425a4e62ce485eb14592",
+    "_type": "component",
+    "body": "<p>Local authorities are starting to create significant impact from better use of data. In this module we have looked&nbsp;closely at the impact of data use in local government to highlight where and how exemplary work is being done and&nbsp;how you can make working with data a core part of your own practices. But how do you communicate these messages to the rest of your team? In particular, how can you find the right language to speak about data with those you need to support you? In our final module we look at how to speak about data and in particular open data, a trend driving forward the way local authorities work with data.</p>\n",
+    "displayTitle": "Making the impact work for you",
+    "title": "Making the impact work for you",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "584131de4d7b7e82691e4b7c",
+    "_layout": "right",
+    "_parentId": "584131cf4d7b7e82691e4b7b",
+    "_type": "component",
+    "body": "<p>Data plays an important role in making governments more transparent, helping businesses to innovate and preventing fraud.</p>\n",
+    "displayTitle": "The benefits of better data use",
+    "title": "The benefits of better data use",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Opening government",
+        "body": "<p>Open data initiatives in the public sector were originally to promote transparency and accountability.</p>\n\n<p>Enabling the general public to hold government&nbsp;to account when it comes to spending and performance, leads to more citizen trust and improved performance within governments.</p>\n\n<p>The use of open data portals within councils means that open data can be found all in one place and&nbsp;be updated when necessary.&nbsp;This makes data not just available, but also valuable and useable.</p>\n\n<p>Aside from transparency and accountability, wider public sector engagement with citizens means that the general public can help shape their communities and services.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Growing economies",
+        "body": "<p>Promoting local economic growth is increasingly important for councils.&nbsp;</p>\n\n<p>The ODI estimate there are 270 companies that work with open data, with a turnover of &pound;92 billion a year, and employing over half a million people. Most of these companies&nbsp;are working with open government data.</p>\n\n<p>Local councils can also interact&nbsp;with businesses by running open data hacks or challenges, which incentivise developers to innovate and develop&nbsp;products and services which respond to social needs.&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Reducing fraud",
+        "body": "<p>Local government lost an <a href=\"https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/118532/annual-fraud-indicator-2011.pdf\">estimated &pound;2.1 billion</a> in fraud in 2011, the last year for which figures are available.&nbsp;This can be from people falsely claiming entitlements such as Blue Badges, housing tenancy fraud, or procurement fraud. Alongside this, money is lost through error such as duplicated payments to suppliers or incorrect payments to individuals.</p>\n\n<p>Integration of data and analytics increasingly makes fraud and error preventable, offering another means of making savings.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "584080be4d7b7e82691e4b74",
+    "_layout": "left",
+    "_parentId": "58407fe74d7b7e82691e4b71",
+    "_type": "component",
+    "body": "<p>Increased utilisation of data in local authorities requires the right technology.&nbsp;</p>\n\n<p>Traditionally, local government has operated in silos. Use of multiple IT systems have made consistent data collection and the interoperability more difficult,&nbsp;leading to duplication of activities, and placing an administrative burden on data extraction, cleaning and integration, which needs to be done manually.&nbsp;<br />\n&nbsp;</p>\n\n<p>Scroll through to look at the different tools councils are using to improve council activities with data.&nbsp;</p>\n",
+    "displayTitle": "Tools which enable better data use",
+    "title": "Tools which enable better data use",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Data Integration Systems",
+        "body": "<p>Specialist software is beginning to be&nbsp;used in local councils&nbsp;which can work with multiple legacy systems to integrate data in one place. This offers more transparency around the activities of councils, preventing duplication.&nbsp;It can also improve the accuracy and efficiencies of processes.</p>\n\n<p>Automated data integration also reduces the amount of&nbsp;time consumed by manually processing data from one system so that it can be used in conjunction with another, in order to check eligibility, detect&nbsp;fraud, provide business insights or diagnose service failure.</p>\n\n<p>For example, the Camden Residents Index (CRI) collates data from 16 systems and as a result, enabling the council to reduce&nbsp;administration, provide a more streamlined service and detect&nbsp;fraud.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data Portals",
+        "body": "<p>Data portals are being developed as a central point for publishing organisational data.</p>\n\n<p>Integrating data from across a range of systems can reduce the amount of times&nbsp;residents need to repeat the same information to different sections of the council. It can speed up the response to applications, enquiries or complaints.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "The Internet of Things",
+        "body": "<p>Internet of Things (IoT) initiatives combine &#39;things&#39;, like buildings or products,&nbsp;with sensors and network connectivity&nbsp;to record and exchange&nbsp;data in order to improve&nbsp;efficiency and accuracy.&nbsp;</p>\n\n<p>Connecting devices&nbsp;together via the internet&nbsp;has the potential to improve the how cities and towns are run on a global scale.</p>\n\n<p>Local authorities to use real-time data from devices and buildings to&nbsp;manage traffic and reduce congestion, match&nbsp;public transport capacity and frequency with passenger demand more accurately, streamline&nbsp;waste collection services, and improve&nbsp;responses to emergencies such as flooding, major accidents, fires or police incidents.&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "584080004d7b7e82691e4b73",
+    "_layout": "right",
+    "_parentId": "58407fe74d7b7e82691e4b71",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
+      "small": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58407c5d4d7b7e82691e4b6c",
+    "_layout": "right",
+    "_parentId": "58407c4e4d7b7e82691e4b6a",
+    "_type": "component",
+    "body": "<p>Local government is entering its seventh year of spending cuts, with austerity looking to continue until at least 2020.&nbsp;The central government grant is forecast to be reduced by 54% between 2015-2020.&nbsp;</p>\n\n<p>With decreasing budget and resources, councils will need to find&nbsp;innovative&nbsp;ways to reduce costs while maintaining service quality and meeting their statutory obligations.&nbsp;</p>\n\n<p>Data can be an&nbsp;important enabler of these improvements. Local authorities across the UK are learning how to utilise data&nbsp;to increase efficiencies, make services more effective, help businesses grow, and save money. Publishing data openly is enabling authorities to outsource work to startups who have the skills to create value from data.&nbsp;</p>\n\n<p>Learn about the step by step process for publishing local authority data in these <a href=\"http://lga.learndata.info/1-transparency4U/#/id/co-01\">three online learning modules</a>.&nbsp;</p>\n",
+    "displayTitle": "The role of data within local government",
+    "title": "The role of data within local government",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "584134ff4d7b7e82691e4b7f",
+    "_layout": "full",
+    "_parentId": "584134ef4d7b7e82691e4b7e",
+    "_type": "component",
+    "body": "<p>Data is only as effective as the impact that it creates. Here are four ways you can maximise impact with open data.</p>\n",
+    "displayTitle": "Key approaches to maximising impact",
+    "title": "Key approaches to maximising impact",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Creating a data culture",
+        "body": "<p>Data needs to be at the heart of the organisation to maximise&nbsp;impact.&nbsp;A data culture means that data is considered at every decision making point, at every&nbsp;change in strategy and every new initiative. Data should not just be used to offer a retrospective view of what has happened, but to predict&nbsp;what it is possible to achieve in the future.</p>\n\n<p>There is currently a widespread lack of data literacy and skills among leaders in local authorities. Without an awareness of what can be achieved with data, leaders are unable to make data-driven decisions, clearly see the&nbsp;pain points or give analysts what they need to make better use of data.&nbsp;</p>\n\n<p>A data culture needs to be&nbsp;adopted from the top down, bringing the whole team on board in order to maximise&nbsp;impact.&nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/f47393b9bd20f6e421d25cedd6ffd0d7d4d24f39.png",
+          "alt": ""
+        },
+        "strapline": "Culture"
+      },
+      {
+        "title": "Problem-based data use",
+        "body": "<p>A lot of data in local councils is collected through administrative duties and&nbsp;the delivery of services. Often this data will not get looked at in an analytical way, unless it is required to solve a problem.&nbsp;</p>\n\n<p>Problem-based data use means asking &#39;what problem are we trying to solve?&#39; first. After the problem is identified, look at what data is needs to be collected or used to solve the problem.</p>\n\n<p>Problem-based data use is an efficient, cost-effective and proactive way of making the most of&nbsp;data. It enables collaborative data collection, where councils can use mobile applications to directly interact with citizens, work with companies collecting the relevant data or use low-cost, distributed sensors.&nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/d98166fe5e53590c73d3b2799165d40cc673675f.png",
+          "alt": ""
+        },
+        "strapline": "Proactive"
+      },
+      {
+        "title": "Engaging with the community ",
+        "body": "<p>Problem-based data use requires data workers in local councils to engage further with their community.&nbsp;</p>\n\n<p>Once the pain points are identified, data analysts should work directly with the people within that organisation or field&nbsp;to help solve the problem, and not merely&nbsp;look at the data.&nbsp;</p>\n\n<p>For example, to help inform changes to long-term social work in Newcastle, data analysts worked alongside social workers to look for hypotheses to test and analyse which offer insight on how best to support families. Analysts take not only a quantitative role, but also identify patterns&nbsp;and undertake deep-dive analysis or case-study analysis.&nbsp;</p>\n\n<p>This enables data analysts to test what works, and develop a data dashboard for social workers to manage their caseloads.&nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/6bacf6beda3fd05a2897d487648f3180f5fe53ef.png",
+          "alt": ""
+        },
+        "strapline": "Community"
+      },
+      {
+        "title": "Measuring impact",
+        "body": "<p>Many local councils are taking concrete steps to ensure that they are maximising impact with data work. But measuring this impact is key to ensuring that what actually works is recorded, and can be used to influence key decision makers.&nbsp;</p>\n\n<p>When the problem is identified, stakeholders must work together to create measurable metrics which monitor and evaluate impact. If the project fails to meet those metrics, then changing the approach will save time and money. Measuring&nbsp;impact also enables projects to be compared to other initiatives, ensuring that the best and most efficient method can be taken forward.</p>\n\n<p>Putting figures against success also helps to produce&nbsp;case studies which inspire decision makers to start building data into policies and processes. Ultimately, this will catalyse better use of data to be adopted across all UK local government.&nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/938032f8502e086c2db35d514c066cfa718da32b.png",
+          "alt": ""
+        },
+        "strapline": "Impact"
+      }
+    ]
+  },
+  {
+    "_id": "584e6f6a4d7b7e82691e4e2a",
+    "_layout": "left",
+    "_parentId": "58407bae4d7b7e82691e4b67",
+    "_type": "component",
+    "body": "<p>Open and shared data can be valuable resources for any organisation to make better use of their resources. Whether to develop a clearer picture of operations, reduce inefficiency in supply chains or increase reach, a growing number of organisations now benefit from publishing and using both open and shared data.</p>\n\n<p>But to share or open data might require a change in the culture of an organisation. Most businesses are configured to protect their data resources, even where benefits of greater sharing outweigh costs. The key to overcoming this resistance is clear, effective communication of the benefits that open and shared data can bring.</p>\n\n<p>This module will prepare you to deliver a tailored pitch for open data that highlights value and addresses risks.</p>\n",
+    "displayTitle": "Making your argument work for you",
+    "title": "Making your argument work for you",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "584eb2ad4e62ce485eb144fe",
+    "_layout": "full",
+    "_parentId": "584eb2854e62ce485eb144fc",
+    "_type": "component",
+    "body": "<p>Without data we can&rsquo;t build information, and without information there is no new knowledge.</p>\n",
+    "displayTitle": "What is data?",
+    "title": "What is data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Data",
+        "body": "<p>Data is the raw material from which information and knowledge can be derived.</p>\n\n<p>Think of data as those locations, images, descriptions, reviews and prices that form the basis of information that can help you plan a holiday, for example.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/ded96d5854bb8d6e2afb6e601a66238c545703b7.jpg",
+          "alt": ""
+        },
+        "strapline": "Data"
+      },
+      {
+        "title": "Information",
+        "body": "<p>Data becomes information when it is given a context.</p>\n\n<p>Following on from the previous example, locations, images, descriptions and prices can all help provide information related to a tourist attraction.</p>\n\n<p>The collection and presentation of data helps to form information.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/8b10a4fbd6879db59bbb5defc637cf344b88eabf.jpg",
+          "alt": ""
+        },
+        "strapline": "Information"
+      },
+      {
+        "title": "Knowledge",
+        "body": "<p>Knowledge is what is derived from information, and personalised for your needs.</p>\n\n<p>Building knowledge is a process of turning information into choices.</p>\n\n<p>Building on the previous example, knowing that no one in your family likes theme parks will help you to decide which places to avoid on holiday, and which would suit your family better.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/ec7529be2f11d06ce25c6646a724e104cf2ff910.jpg",
+          "alt": ""
+        },
+        "strapline": "Knowledge"
+      }
+    ]
+  },
+  {
+    "_id": "584eb3674e62ce485eb14504",
+    "_layout": "right",
+    "_parentId": "584eb3514e62ce485eb14502",
+    "_type": "component",
+    "body": "<p>Data is open if anyone can access, use and share it.<br />\nThere are some simple things to consider when defining openness:</p>\n",
+    "displayTitle": "What makes data open?",
+    "title": "What makes data open?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Limitations",
+        "body": "<p>For data to be open, it should have no limitations that prevent it from being used in any particular way</p>\n\n<p>Anyone should be free to use, modify, combine and share the data, even commercially.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Cost",
+        "body": "<p>Open data must be free to use, but this does not mean that it must be free to access.</p>\n\n<p>There is often a cost to creating, maintaining and publishing usable data.</p>\n\n<p>Ideally, any fee for accessing open data should be no more than the reasonable reproduction cost of the unit of data that is requested.</p>\n\n<p>This reproduction cost tends to be negligible for many datasets.</p>\n\n<p>Live data and big data can incur ongoing costs related to reliable service provision.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Reuse",
+        "body": "<p>Once the user has the data, they are free to use, reuse and redistribute it &ndash; even commercially.</p>\n\n<p>The value of open data is measured by what it can be used for, not by how it is made available.</p>\n\n<p>Aspects like format, structure and machine readability all make data more usable, and should all be carefully considered.</p>\n\n<p>However, these do not make the data more open.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "584eb4924e62ce485eb14506",
+    "_layout": "full",
+    "_parentId": "584eb4754e62ce485eb14505",
+    "_type": "component",
+    "body": "<p>Open data can bring different benefits, depending on its use. Many advocates of open data use generic arguments when discussing its advantages, but a strong pitch for open data needs to be closely tailored to the priorities and concerns of its audience. In most cases, this can be determined from their professional context. Below we examine six common roles of decision makers, coupled with the most relevant benefits of open data.</p>\n",
+    "displayTitle": "What open data does",
+    "title": "What open data does",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Leadership & strategy",
+        "body": "<p>Most organisations already have or are exploring the need for a data strategy. When speaking with those in strategic or leadership roles, strengthening their data strategy is a key concern.</p>\n\n<p>Open data supports the wider data strategy of an organisation by enriching proprietary data at no cost and adding new options to the data-sharing capabilities of the business.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/e476d5412f3c230ba6365724bc2935db25901c21.jpg",
+          "alt": ""
+        },
+        "strapline": "Leadership"
+      },
+      {
+        "title": "Operations",
+        "body": "<p>For those in operations roles, efficiency is a priority. Data plays a role in resource-saving by enabling a faster exchange of information. Open data can enable efficiency in orders of far greater magnitude.</p>\n\n<p>The ability to access and share data across multiple platforms and between numerous organisations eradicates the time and cost normally associated with acquiring valuable datasets, one by one.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/c6f0379d2e7a1f8ef317013665105ad75165b32c.png",
+          "alt": ""
+        },
+        "strapline": "Operations"
+      },
+      {
+        "title": "Finance & ventures",
+        "body": "<p>Those working in finance or ventures will want to know that the investment they put into open data will bring about value for the organisation. When speaking to those in a ventures capacity, the high growth potential of open data services, and initial value they will create, support a strong case for open data. Open data can produce viable equity ventures and business lines with businesses like Climate Corp, DataMarket and others have been acquired wholly by larger organisations.</p>\n\n<p>Open data has already created attractive target entities for acquisition and can contribute to the creation of viable independent business units.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/0906f449a4639090ea7a59cef4c8ea9051af9e5a.jpg",
+          "alt": ""
+        },
+        "strapline": "finance"
+      },
+      {
+        "title": "Communications",
+        "body": "<p>For those in communications roles, data can seem irrelevant to their work. The key message that resonates with communications professionals is that opening data maximises opportunities for media exposure in support of promoting organisational priorities, and complements existing media channels.</p>\n\n<p>Opening data has a proven track record in helping to secure positive media coverage. The rise of data journalism has created a need for alternative channels that traditional releases and media alerts cannot reach. Open data also increases perceived neutrality and trust among the public that resulting articles are not &lsquo;spun&rsquo;.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/6bacf6beda3fd05a2897d487648f3180f5fe53ef.png",
+          "alt": ""
+        },
+        "strapline": "Comms"
+      },
+      {
+        "title": "CSR",
+        "body": "<p>Those who work in CSR or foundations have the greatest natural inclination towards open data. Along with the transparency aspect, this audience responds well to the way in which open data helps to found and strengthen new partnerships.</p>\n\n<p>Exchanging open data with other organisations supports collaboration within existing networks and creates an open platform for innovation and shared learning. By engaging with open data, you can increase your long-term profits and shareholder trust.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/d0bbb7bab4bd1d32d12fe184245de0469eb663c7.jpg",
+          "alt": ""
+        },
+        "strapline": "CSR"
+      },
+      {
+        "title": "Product & marketing",
+        "body": "<p>Those in product or marketing roles will respond best to the potential of open data to enhance relationships with customers. More consumers are coming to expect a custom experience, which can be satisfied through greater provision of open data to complement the product function.</p>\n\n<p>Open data has already enabled startups like CityMapper and OpenCorporates to thrive, shifting the expectations of consumers in their respective markets for not only the product but for the underlying data. Also, as an established businesses, Spotify uses open data service MusicBrainz to enhance the listening experience for its users and develop a competitive edge.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/ee6f34bf56e74a3c0ba6e8e961d6f5bc5726ef5b.png",
+          "alt": ""
+        },
+        "strapline": "Products"
+      }
+    ]
+  },
+  {
+    "_id": "584eb6464e62ce485eb14515",
+    "_layout": "right",
+    "_parentId": "584eb61f4e62ce485eb14512",
+    "_type": "component",
+    "body": "<p>Open data is data that anyone can access, use and share. Unlike resources generally used in a traditional business, which belong only to the business and can be protected, open data can be used by others at the same time. To understand how businesses that use open data operate, we need to consider the value proposition of open data to a business.</p>\n",
+    "displayTitle": "Why open data is best",
+    "title": "Why open data is best",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "instruction": "",
+    "_items": [
+      {
+        "title": "What is a value proposition?",
+        "body": "<p>A &#39;value proposition&#39; is a credible justification for why your customers will interact with your business in the ways that you expect. At the core of a value proposition is the problem you solve for your customers. By identifying a problem your customers have and creating a solution to that problem, you give them justification to interact with your business.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Why are value propositions important?",
+        "body": "<p>The value proposition of a business is central to its business model. Without a strong value proposition, a business does not have justification to operate. The value proposition is also the logic upon which the rest of the business is based. If, for example, a business solves a problem for its customers and helps them to save money or time, there is a reason to charge for this service. If, however, the solution that a business offers is not one that customers value in monetary terms, the business may need to seek alternative sources of revenue. Understanding their value proposition allows a business to anchor decisions in how customers will interact.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "The value proposition for open",
+        "body": "<p>Businesses embracing an open approach &ndash; whether in open source software or open data &ndash; need to consider the value proposition of the open resources that they consume. This consideration is important when developing a value proposition, because using someone else&#39;s data or software in your business can affect the problem you solve.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Creating a value proposition for an open data business",
+        "body": "<p>Creating the value proposition for an open data business is different from a traditional business. Where a closed business solves a problem with a solution that the customer cannot get anywhere else, an open business uses solutions that are already available in some form elsewhere. This means that the value proposition for an open business is usually based on being more convenient or cost-effective than the alternatives. Writing a strong value proposition for an open data business means explaining what problem you solve for a customer and why using your solution is better than going directly to the data themselves.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "584ebf044e62ce485eb14531",
+    "_layout": "left",
+    "_parentId": "584ebef44e62ce485eb14530",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to make data work for you in local government?",
+    "title": "Are you ready to make data work for you in local government?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "584ebfbb4e62ce485eb1453a",
+    "_layout": "left",
+    "_parentId": "584ebfa34e62ce485eb14535",
+    "_type": "component",
+    "body": "<p><strong>Data has the potential to...</strong></p>\n",
+    "displayTitle": "What is the role of data within local government?",
+    "title": "What is the role of data within local government?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Increase efficiency, improve services and help businesses grow",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Make governments accountable",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Give access to other datasets",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!</p>\n\n<p>Local government is learning how to make better use of data to&nbsp;increase efficiencies, make services more effective, help businesses grow, and save money.&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n\n<p>Local government is learning how to make better use of data to&nbsp;increase efficiencies, make services more effective, help businesses grow, and save money.&nbsp;</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "584ec11c4e62ce485eb1453f",
+    "_layout": "left",
+    "_parentId": "584ec1104e62ce485eb1453e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
+      "small": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584ec1214e62ce485eb14540",
+    "_layout": "right",
+    "_parentId": "584ec1104e62ce485eb1453e",
+    "_type": "component",
+    "body": "<p><strong>Automated data integrations systems can...</strong></p>\n",
+    "displayTitle": "How can data integration systems help local authorities?",
+    "title": "How can data integration systems help local authorities?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "instruction": "",
+    "_items": [
+      {
+        "text": "reduce administration time, detect fraud, and provide business insights. ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "provide clarity around which employee is responsible for which dataset",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "increase administration time, find business insights and create apps",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!</p>\n\n<p>Automated data integration systems can reduce&nbsp;the amount of&nbsp;time consumed by manually processing data from one system so that it can be used in conjunction with another, check eligibility, detect&nbsp;fraud, provide business insights or diagnose service failure.</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure about that?</p>\n\n<p>Automated data integration systems can reduce&nbsp;the amount of&nbsp;time consumed by manually processing data from one system so that it can be used in conjunction with another, check eligibility, detect&nbsp;fraud, provide business insights or diagnose service failure.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "584ec3c24e62ce485eb14545",
+    "_layout": "right",
+    "_parentId": "584ec3ac4e62ce485eb14543",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3a5b24358dade34b6047a1f80c91efd57ad0f0b5.png",
+      "small": "course/en/assets/3a5b24358dade34b6047a1f80c91efd57ad0f0b5.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58407c034d7b7e82691e4b68",
+    "_layout": "left",
+    "_parentId": "58407bac4d7b7e82691e4b61",
+    "_type": "component",
+    "body": "<p>Data is transforming the way that local authorities work. This module looks at why local government is turning to data to solve problems and improve processes, some of the tools they are using to do it, and how success is being&nbsp;measured.&nbsp;</p>\n\n<p>In this module we will cover:</p>\n\n<p>✓ The role of data within local government</p>\n\n<p>✓ Tools which enable better use of data</p>\n\n<p>✓ Measuring data use in councils: the local government maturity model</p>\n",
+    "displayTitle": "Making your data work for you ",
+    "title": "Making your data work for you ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "5849a4d94d7b7e82691e4e14",
+    "_layout": "full",
+    "_parentId": "5849a4534d7b7e82691e4e13",
+    "_type": "component",
+    "body": "<p>Around the UK, different local authorities are starting to make creative use of their data to achieve impact for their local areas. Look at each of the &nbsp;case studies to learn more about how these authorities apply problem-based data use to make a real difference to their work.</p>\n",
+    "displayTitle": "Case studies",
+    "title": "Case studies",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Reducing fraud in Camden",
+        "body": "<p>The&nbsp;London Borough of Camden has worked to bring data into the heart of their decision-making processes. The authority has Introduced data dashboards to monitor metrics and trends in real-time rather than just having reports later. These dashboards have enabled service managers to take action faster, improve quality and reduce the time between a target being missed &amp; a solution being found.</p>\n\n<p>A particular example of this is the&nbsp;<a href=\"http://www.nesta.org.uk/news/eight-ways-councils-are-using-data-create-better-services/data-dashboard\">Camden Residents Index</a> (CRI) which automates fraud checks for processes like school enrolment and council tax discount claims. The CRI has enabled Camden to reduce the incidence and impact of fraud across their services through better use of data.</p>\n\n<p>&nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/74c2ad8795813ddb61378c30381fac6497993839.jpg",
+          "alt": ""
+        },
+        "strapline": "Camden"
+      },
+      {
+        "title": "Safeguarding young people in Newcaster",
+        "body": "<p>Newcastle city council have gathered together all data relevant to care for young people into a new service called&nbsp;<a href=\"http://www.nesta.org.uk/data-driven-social-worker\">ChildStat</a>. ChildStat gives social workers instant access to an overview of all cases, giving those on the ground better understanding of the context of their work, related cases and a picture of overall social work within the city. &nbsp;Through a&nbsp;range of datasets such as truancy, free school meals, &#39;Looked After Children&#39; (LAC) and grades, the council has been able to develop a clearer picture than ever of&nbsp;what&nbsp;make young residents NEET (Not in Employment, Education or Training). This picture in turn is allowing planners to better target interventions and monitor the performance of social work teams in the field through access to the ChildStat dashboards.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/d110cce186e7dc4f131cee2562f9a240dc9416a4.png",
+          "alt": ""
+        },
+        "strapline": "Newcastle"
+      },
+      {
+        "title": "Understanding vulnerable families in Manchester",
+        "body": "<p>Manchester city council worked along similar lines to Newcastle but with a different focus. Where Newcastle looked at the factors which indicate risks to young people for social workers, Manchester focussed on the <a href=\"http://www.nesta.org.uk/news/eight-ways-councils-are-using-data-create-better-services/getting-whole-picture\">characteristics of the vulnerable family</a>. For the city&#39;s key workers, assessing a family as to whether they are at risk is time-consuming and often intuitive process. By providing access to comprehensive picture of the family including engagement with other agencies, key events and family trees, the council was able to significantly speed up the assessment process, improve the outcomes for families and get more assessments booked.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/870ddef9f7d752ebd027605c1a674c149f100f8b.png",
+          "alt": ""
+        },
+        "strapline": "Manchester"
+      },
+      {
+        "title": "Tackling damp in Bristol",
+        "body": "<p>Even the most tricky of challenges can be improved through better collection and use of data. In Bristol, the council understood that damp was impacting the quality of life for many residents, often without the knowledge and means to take action. Using <a href=\"http://www.nesta.org.uk/news/eight-ways-councils-are-using-data-create-better-services/damp-sensing-frogs\">frog-shaped sensors</a> installed in the home, the council was able to monitor damp levels as well as providing the user with tips and tools to tackle damp problems where they occurred. Through this collection of data not only is Bristol building an unprecedented picture of the damp challenge within city homes but helping residents tackle a common problem through simple, data-backed advice.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/21fc0dc779ceb7cf67b72afa7a1d41ede00b3173.jpg",
+          "alt": ""
+        },
+        "strapline": "Bristol"
+      },
+      {
+        "title": "Keeping the roads clear in Birmingham",
+        "body": "<p>Birmingham city council, as one of Europe&#39;s largest local authorities, looks after a huge number of highways. In wintery conditions, keeping these gritted and moving is an essential priority for both council and the more the 1m people living in the area. Using <a href=\"http://www.nesta.org.uk/news/eight-ways-councils-are-using-data-create-better-services/temperature-regulated-gritting\">small sensors </a>attached to lamp posts and put into the hands of highways staff, the city can more effectively forecast when gritting is needed and help to ensure city roads stay clear.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/5069d92f85d24333254dd3e401701145b2d16da2.jpg",
+          "alt": ""
+        },
+        "strapline": "Birmingham"
+      },
+      {
+        "title": "Integrating care provision in Suffolk",
+        "body": "<p>For Suffolk County Council, as for so many other authorities, the increasing challenges of health and social care provision demanded a radical response. Suffolk <a href=\"http://www.nesta.org.uk/shared-outcomes-framework-health-and-social-care\">joined up their health and social care data</a> into a set of proactive measurements of success. Performance against these measures is regularly put directly into the hands of all teams working in the area, allowing them not only to track and improve their own performance but also to get a bigger picture of how they fit into the health and social care landscape in Suffolk. The council has been able to coordinate better between the different providers, focus resources on problems as they arise and improve the performance of services.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/d294b2fef229130cc13f69e9319c3ec7b8d7a5e7.jpg",
+          "alt": ""
+        },
+        "strapline": "Suffolk"
+      }
+    ]
+  },
+  {
+    "_id": "584ee3294e62ce485eb14582",
+    "_layout": "right",
+    "_parentId": "584ee30e4e62ce485eb1457f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/98e5a6a16798539ca80fdcaa4979d38e411dc44a.png",
+      "small": "course/en/assets/98e5a6a16798539ca80fdcaa4979d38e411dc44a.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584ee3834e62ce485eb14589",
+    "_layout": "left",
+    "_parentId": "584ee3694e62ce485eb14588",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5f768ae3c1e16ce761cb268b7b6bd5872c68eb28.png",
+      "small": "course/en/assets/5f768ae3c1e16ce761cb268b7b6bd5872c68eb28.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584f422e4e62ce485eb1458f",
+    "_layout": "right",
+    "_parentId": "584f421b4e62ce485eb1458d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/83aae86f5f5451aba2f58e8d45e064f6af5f816d.png",
+      "small": "course/en/assets/83aae86f5f5451aba2f58e8d45e064f6af5f816d.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584eb35f4e62ce485eb14503",
+    "_layout": "left",
+    "_parentId": "584eb3514e62ce485eb14502",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2813c675fbfd5a508c8e99374187733d399f4b25.png",
+      "small": "course/en/assets/2813c675fbfd5a508c8e99374187733d399f4b25.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584eb79a4e62ce485eb1451a",
+    "_layout": "right",
+    "_parentId": "584eb7774e62ce485eb14518",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/129d64c8646a967c58fe53c0e19103e1bc14f07e.jpg",
+      "small": "course/en/assets/129d64c8646a967c58fe53c0e19103e1bc14f07e.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584eb62d4e62ce485eb14513",
+    "_layout": "left",
+    "_parentId": "584eb61f4e62ce485eb14512",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7a60285b6b24a9a072771eb1b039c037a3b49ead.png",
+      "small": "course/en/assets/7a60285b6b24a9a072771eb1b039c037a3b49ead.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584e6f6d4d7b7e82691e4e2b",
+    "_layout": "right",
+    "_parentId": "58407bae4d7b7e82691e4b67",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/93089975ae667a03fedbc7cdd2e50af87afbed3b.gif",
+      "small": "course/en/assets/93089975ae667a03fedbc7cdd2e50af87afbed3b.gif",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584f428b4e62ce485eb14594",
+    "_layout": "right",
+    "_parentId": "584f425a4e62ce485eb14592",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e303e33c52b96c12da48db19daab649529718970.png",
+      "small": "course/en/assets/e303e33c52b96c12da48db19daab649529718970.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584131c44d7b7e82691e4b79",
+    "_layout": "left",
+    "_parentId": "58407bad4d7b7e82691e4b64",
+    "_type": "component",
+    "body": "<p>This module looks closely at the impact of data use in local government to highlight where and how exemplary work is being done, and to inspire other local authorities to make working with data a core part of their practices.&nbsp;</p>\n\n<p>In this module we will cover:</p>\n\n<p>✓ The benefits of better data use in local authorities</p>\n\n<p>✓ How local authorities can maximise impact&nbsp;</p>\n\n<p>✓ Local authority case studies of effective data use</p>\n",
+    "displayTitle": "  Making the impact work for you",
+    "title": "  Making the impact work for you",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "5840826d4d7b7e82691e4b76",
+    "_layout": "full",
+    "_parentId": "584081b04d7b7e82691e4b75",
+    "_type": "component",
+    "body": "<p>Data maturity&nbsp;refers to the readiness of a local authority to implement pieces of data work of various kinds. It can also describe the journey that the authority undertakes to improve its process of working with data, and evaluate the level of its data practices.&nbsp;</p>\n\n<p>The UK local government data Maturity model measures the levels of data management, data governance and openness, data use, data skills and capability, data awareness and culture.&nbsp;</p>\n",
+    "displayTitle": "The UK local data maturity model ",
+    "title": "The UK local data maturity model ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Data Management",
+        "body": "<p>The data management section of the model assesses how mature the organisation is the way they gather and look after their data. The model measures how advanced the processes are around the collection of data, how well organised the authority&#39;s data is and the quality of that data in terms of its cleanliness and freedom from error.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/79460d4ed7549a078d347f8f79b9b8336f79d573.png",
+          "alt": ""
+        },
+        "strapline": "management"
+      },
+      {
+        "title": "Data governance",
+        "body": "<p>The data governance section of the model assesses how mature the organisation is how they govern and look after their data and their data sharing. The model measures how comprehensive the governance processes of the data is and how well-developed the open data programme of the authority is.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/8cfb7a346686a64f3ff9af4d96a2f192f6bfbd23.png",
+          "alt": ""
+        },
+        "strapline": "governance"
+      },
+      {
+        "title": "Data use",
+        "body": "<p>The data use section of the model assesses how mature the organisation&#39;s use of data is across their key processes. The model measures how integral data is to the decision-making process for the authority, how much data is referred to during the process of performance monitoring &amp;&nbsp;evaluation and the role of data with optimising the work of the authority and automating routine tasks.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/c559dbefe0493b23f160f1d15a8f229004531e2d.png",
+          "alt": ""
+        },
+        "strapline": "use"
+      },
+      {
+        "title": "Data skills capability",
+        "body": "<p>The data skills&nbsp;section of the model assesses how mature the organisation is the level of data skills among their workforce. The model measures whether personnel working with data have the necessary skills to work effectively with data.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/c55645930ec10bc3e5acaa34ba48fcb62a6d95db.png",
+          "alt": ""
+        },
+        "strapline": "skills"
+      },
+      {
+        "title": "Data awareness & culture",
+        "body": "<p>The data awareness section of the model assesses how mature the understanding of data is among the workforce. The model measures whether all staff have a good understanding of the place of data within the authority and how it can deliver positive results.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/6c06d8ec91aaa525bb1eeeea17cdfaa5b6939b37.png",
+          "alt": ""
+        },
+        "strapline": "awareness"
+      }
+    ]
+  },
+  {
+    "_id": "584ec3be4e62ce485eb14544",
+    "_layout": "left",
+    "_parentId": "584ec3ac4e62ce485eb14543",
+    "_type": "component",
+    "body": "<p><strong>Which of the following is one of the criteria assessed by the data maturity model?</strong></p>\n",
+    "displayTitle": "  Using the data maturity model",
+    "title": "  Using the data maturity model",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "instruction": "",
+    "_items": [
+      {
+        "text": "  Data use",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Data size",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Data subject",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p>\n\n<p>Data use is one of the criteria assessed by the data maturity model and measures how well integrated data is into the key processes of the local authority.</p>\n",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p>\n\n<p>Data use is one of the criteria assessed by the data maturity model and measures how well integrated data is into the key processes of the local authority.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "585407f4b61c46e176e7e0f2",
+    "_layout": "left",
+    "_parentId": "585407e1b61c46e176e7e0f1",
+    "_type": "component",
+    "body": "<p>Data is transforming the way that local authorities work. In this module we have looked at why local government is turning to data to solve problems and improve processes and explored tools like the local data maturity model&nbsp;that can help your authority improve their work with data. But how does this data help to create impact for the local authority? In our next module, we will explore how authorities around the UK are creating impact from their work with data.</p>\n",
+    "displayTitle": "Making your data work for you",
+    "title": "Making your data work for you",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "585407f8b61c46e176e7e0f3",
+    "_layout": "right",
+    "_parentId": "585407e1b61c46e176e7e0f1",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e303e33c52b96c12da48db19daab649529718970.png",
+      "small": "course/en/assets/e303e33c52b96c12da48db19daab649529718970.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "586e6636b61c46e176e7e153",
+    "_layout": "right",
+    "_parentId": "586e6140b61c46e176e7e14f",
+    "_type": "component",
+    "body": "<p dir=\"ltr\"><strong>Open data should be&hellip;</strong></p>\n",
+    "displayTitle": "What makes data open?",
+    "title": "What makes data open?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "restricted in its use.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "selectively released for a fee.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "free of restrictions for its use.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&rsquo;s right!</strong></p>\n\n<p>If something restricts the free use of the data, such as a non-commercial restriction, then this would not qualify as being open data.</p>\n",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p>\n\n<p>If something restricts the free use of the data, such as a non-commercial restriction, then this would not qualify as being open data.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "586e66c1b61c46e176e7e155",
+    "_layout": "left",
+    "_parentId": "586e66b3b61c46e176e7e154",
+    "_type": "component",
+    "body": "<p dir=\"ltr\"><strong>Which argument for open data is most appropriate in a pitch for&nbsp;someone working in an operations role?</strong></p>\n",
+    "displayTitle": "What open data does",
+    "title": "What open data does",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "open data can enhance services for customers.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "open data can increase efficiency.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "open data can drive innovation.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p>\n\n<p>Efficiency is a priority for those in operations roles. The ability to access and share data eradicates the time and cost normally associated with acquiring valuable datasets, one by one.</p>\n",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p>\n\n<p>Efficiency is a priority for those in operations roles. The ability to access and share data eradicates the time and cost normally associated with acquiring valuable datasets, one by one.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "586e67ebb61c46e176e7e15b",
+    "_layout": "right",
+    "_parentId": "586e67e2b61c46e176e7e15a",
+    "_type": "component",
+    "body": "<p dir=\"ltr\"><strong>You should end your pitch with...</strong></p>\n",
+    "displayTitle": "What next?",
+    "title": "What next?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "an action that enables on the spot decision making.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "an action for your listener to take to their manager.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "an action for your listener to think about for a few days.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p>\n\n<p dir=\"ltr\">At the end of your pitch it is vital to create an action that allows your listener to give an answer immediately. If the person needed to consult others or consider further, the action is too big.</p>\n",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p>\n\n<p>At the end of your pitch it is vital to create an action that allows your listener to give an answer immediately. If the person needed to consult others or consider further, the action is too big.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "585404e8b61c46e176e7e0ef",
+    "_layout": "right",
+    "_parentId": "5854046eb61c46e176e7e0ed",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "matchblock",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "586e512cb61c46e176e7e142",
+    "_layout": "right",
+    "_parentId": "586e5118b61c46e176e7e140",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
+      "small": "course/en/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "586e614ab61c46e176e7e150",
+    "_layout": "left",
+    "_parentId": "586e6140b61c46e176e7e14f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2813c675fbfd5a508c8e99374187733d399f4b25.png",
+      "small": "course/en/assets/2813c675fbfd5a508c8e99374187733d399f4b25.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "586e66c5b61c46e176e7e156",
+    "_layout": "right",
+    "_parentId": "586e66b3b61c46e176e7e154",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "white",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c6f0379d2e7a1f8ef317013665105ad75165b32c.png",
+      "small": "course/en/assets/c6f0379d2e7a1f8ef317013665105ad75165b32c.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "586e67feb61c46e176e7e15c",
+    "_layout": "left",
+    "_parentId": "586e67e2b61c46e176e7e15a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/129d64c8646a967c58fe53c0e19103e1bc14f07e.jpg",
+      "small": "course/en/assets/129d64c8646a967c58fe53c0e19103e1bc14f07e.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584ebdcf4e62ce485eb1452f",
+    "_layout": "full",
+    "_parentId": "584eb7b24e62ce485eb1451b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "    Where has open data helped?",
+    "title": "    Where has open data helped?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Comms & transparency",
+        "body": "<p>As a large organisation, agricultural product company Syngenta are reaching new markets and demystifying their work by publishing openly available datasets.</p>\n\n<p>In the public sector, analysis of openly available Canada Revenue Agency data identified $3.2bn in charitable tax violations. In one case, only $1 out of every $100 went to its stated cause of helping the homeless.</p>\n\n<p>As an open data startup, OpenCorporates provides 100m company records in over 100 jurisdictions, which enables the study of beneficial ownership and control.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Generating income",
+        "body": "<p>Another large organisation, Arup, incubates open data startups for new revenue sources and lower operations costs for services, and to collaboratively gain commercial insight into multiple data releases.</p>\n\n<p>The Climate Corporation was bought by Monsanto for $930m in 2013 for their use of farm data, which has revolutionised the agricultural industry.</p>\n\n<p>In startups, Transport API have an annual turnover of &pound;300k, generated by cleaning up UK transport data for other businesses.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Efficiency savings",
+        "body": "<p>Thomson Reuters is another large organisation, who has applied open data so that their existing products can be linked together for a better sales channel, which has lowered ownership costs.</p>\n\n<p>In the public sector, the Government of South Australia saves $3.2m annually on Freedom of Information requests through proactively releasing data.</p>\n\n<p>Startup Prescribing Analytics &ndash; a joint venture between NHS doctors and technologists &ndash; used open data to identify a &pound;200m annual saving for the NHS if they were to switch to own-brand statins and utilise more efficient delivery routes.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Improving services",
+        "body": "<p>Another large organisation, Transport for London, released their travel data and enabled developers to provide consumer-friendly services, providing customers with an estimated &pound;58 million per year in saved time.</p>\n\n<p>In the public sector, the government of Catalunya achieved savings of &euro;2.6m per year in reduced staff costs from cross-department access to map data.</p>\n\n<p>Startup CityMapper joined up available transport data to improve the ways in which citizens could travel. Three years after its inception, CityMapper has received $10m in funding and has expanded to cover 29 cities.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "CSR & social impact",
+        "body": "<p>In the large organisation category, the Environment Agency used open data to create community-built flood models that could save 20% on design and delivery costs of providing mandatory flood information to the public.</p>\n\n<p>In the public sector, in response to the Christchurch earthquake in 2011, city officials and volunteers created a crowdsourced emergency information web app that saved NZ$4m in reconstruction costs within the first year of rebuilding.</p>\n\n<p>Startup OpenSensors deployed air quality and noise sensors around Heathrow, which they released as open data, exposing the fact that emissions were double the reported figure and altering the direction of parliamentary debate on the subject.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "584ee3264e62ce485eb14581",
+    "_layout": "left",
+    "_parentId": "584ee30e4e62ce485eb1457f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to make the impact of data work for you?",
+    "title": "Are you ready to make the impact of data work for you?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "586e7c73b61c46e176e7e16e",
+    "_layout": "right",
+    "_parentId": "586e7c63b61c46e176e7e16c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e303e33c52b96c12da48db19daab649529718970.png",
+      "small": "course/en/assets/e303e33c52b96c12da48db19daab649529718970.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "585404dfb61c46e176e7e0ee",
+    "_layout": "left",
+    "_parentId": "5854046eb61c46e176e7e0ed",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to make your argument?",
+    "title": "Are you ready to make your argument?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "584ee34f4e62ce485eb14586",
+    "_layout": "left",
+    "_parentId": "584ee3424e62ce485eb14585",
+    "_type": "component",
+    "body": "<p><strong>One of the impacts of better data use in government is reduction in the rate of fraud on areas like blue badges and housing benefit. But how much does the National Fraud Authority estimate local government lost to fraud in 2011?</strong></p>\n",
+    "displayTitle": "Achieving savings for local government",
+    "title": "Achieving savings for local government",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "instruction": "",
+    "_items": [
+      {
+        "text": "£20 million",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "£200 million",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "£2.1 billion",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p>\n\n<p>The National Fraud Authority estimates that local authorities lost &pound;2.1 billion to fraud in 2011, the last year for which data is available.</p>\n",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p>\n\n<p>The National Fraud Authority estimates that local authorities lost &pound;2.1 billion to fraud in 2011, the last year for which data is available.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "584ee3514e62ce485eb14587",
+    "_layout": "right",
+    "_parentId": "584ee3424e62ce485eb14585",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/36ffe08599a5405fa0f300777ee0a615e5cb9a1a.png",
+      "small": "course/en/assets/36ffe08599a5405fa0f300777ee0a615e5cb9a1a.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584ee3894e62ce485eb1458a",
+    "_layout": "right",
+    "_parentId": "584ee3694e62ce485eb14588",
+    "_type": "component",
+    "body": "<p><strong>Local authorities at the forefront of data are changing the way they look at things. Many are now using an approach where they first look at&nbsp;what problem are they trying to solve?. After the problem is identified, they look at what data is needs to be collected or used to solve the problem.</strong></p>\n\n<p><strong>What is this approach called?</strong></p>\n",
+    "displayTitle": "Changing the mindset around data in local authorities",
+    "title": "Changing the mindset around data in local authorities",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Problem-based data use",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Challenge-driven data management",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Issue-led data intervention",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p>\n\n<p>The mindset where you first examine the data and then look for what data is needed to solve it is known as problem-based data use.</p>\n",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p>\n\n<p>The mindset where you first examine the data and then look for what data is needed to solve it is known as problem-based data use.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "584f422b4e62ce485eb1458e",
+    "_layout": "left",
+    "_parentId": "584f421b4e62ce485eb1458d",
+    "_type": "component",
+    "body": "<p>Birmingham is one of the leading local authorities when it comes to data use. But what problem motivated their use of sensors across the city to gather new data?</p>\n",
+    "displayTitle": "Data use in Birmingham",
+    "title": "Data use in Birmingham",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "instruction": "",
+    "_items": [
+      {
+        "text": "When to grit the roads",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "How to manage city parks",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Whether to close schools",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p>\n\n<p>Birmingham city council uses small weather sensors attached to lamp posts and given to roads staff to monitor when the gritters need to be out on city streets.</p>\n",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p>\n\n<p>Birmingham city council uses small weather sensors attached to lamp posts and given to roads staff to monitor when the gritters need to be out on city streets.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  }
+]

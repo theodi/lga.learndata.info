@@ -1,0 +1,65 @@
+[
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/be470020848ed617d92d832679da7b45a19059ec.png"
+    },
+    "_id": "58407bac4d7b7e82691e4b5f",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Data is transforming the way local authorities work. This module looks at why local government is turning to data to solve problems and improve processes, some of the tools they use to do it, and how success is being&nbsp;measured.&nbsp;</p>\n",
+    "displayTitle": "Making your data work for you",
+    "title": "Making your data work for you",
+    "_skillsFramework": {
+      "_skills": []
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/938032f8502e086c2db35d514c066cfa718da32b.png"
+    },
+    "_id": "58407bad4d7b7e82691e4b62",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>This module looks closely at the impact of data use in local government to highlight where and how exemplary work is being done, and to inspire other local authorities to make working with data a core part of their practices.</p>\n",
+    "displayTitle": "Making the impact work for you",
+    "title": "Making the impact work for you",
+    "_skillsFramework": {
+      "_skills": []
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/6bacf6beda3fd05a2897d487648f3180f5fe53ef.png"
+    },
+    "_id": "58407bae4d7b7e82691e4b65",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Most businesses are configured to protect their data resources through secrecy.&nbsp;Clear, effective communication of the benefits is essential to overcome this. This module will prepare you to deliver a pitch for open data that highlights value and addresses risks.</p>\n",
+    "displayTitle": "Making your argument work for you",
+    "title": "Making your argument work for you",
+    "_skillsFramework": {
+      "_skills": []
+    }
+  }
+]
