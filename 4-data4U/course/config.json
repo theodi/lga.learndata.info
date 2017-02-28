@@ -19,19 +19,46 @@
   "_accessibility": {
     "_isTextProcessorEnabled": false,
     "_shouldSupportLegacyBrowsers": true,
+    "_isDisabledOnTouchDevices": false,
     "_isEnabled": false
   },
   "__v": 0,
+  "_aboutPage": {
+    "_items": [
+      {
+        "_graphic": {
+          "src": "http://create.learndata.info/preview/579b7407f399990a1aefebc6/58407baa4d7b7e82691e4b5d/adapt/css/assets/logo-small.png",
+          "alt": "The Open Data Institute"
+        },
+        "description": "<p>Expert knowledge and content development provided by the&nbsp;Open Data Institute.</p>\n",
+        "title": "The Open Data Institute"
+      },
+      {
+        "_graphic": {
+          "src": "http://accelerate.theodi.org/en/module1/adapt/css/assets/adapt.png",
+          "alt": "Adapt eLearning"
+        },
+        "description": "<p>Open source learning platform developed by&nbsp;Adapt elearning.</p>\n",
+        "title": "Adapt eLearning"
+      }
+    ]
+  },
+  "_tutor": {
+    "_isEnabled": false
+  },
   "build": {
     "includes": [
       "adapt-theme-lga",
       "adapt-contrib-boxMenu",
+      "adapt-contrib-aboutPage",
+      "adapt-contrib-pageLevelProgress",
       "adapt-skillsFramework",
-      "adapt-contrib-text",
+      "adapt-contrib-tutor",
       "adapt-contrib-graphic",
+      "adapt-contrib-text",
       "adapt-contrib-mcq",
-      "adapt-contrib-accordion",
-      "adapt-contrib-narrative"
+      "adapt-contrib-narrative",
+      "adapt-contrib-accordion"
     ]
   }
 }
