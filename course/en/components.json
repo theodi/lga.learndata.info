@@ -23,29 +23,6 @@
     }
   },
   {
-    "_id": "587e0cc7b61c46e176e7e223",
-    "_layout": "right",
-    "_parentId": "587e0cb3b61c46e176e7e221",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/7b26c3182c57927c34d776374088360456863df7.jpg",
-      "small": "course/en/assets/7b26c3182c57927c34d776374088360456863df7.jpg",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "58407c064d7b7e82691e4b69",
     "_layout": "right",
     "_parentId": "58407bac4d7b7e82691e4b61",
@@ -115,29 +92,6 @@
     }
   },
   {
-    "_id": "584eb62d4e62ce485eb14513",
-    "_layout": "right",
-    "_parentId": "584eb61f4e62ce485eb14512",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/3488880e08a0f82ccdb3dfdc68791182b5919310.png",
-      "small": "course/en/assets/3488880e08a0f82ccdb3dfdc68791182b5919310.png",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "584e6f6d4d7b7e82691e4e2b",
     "_layout": "right",
     "_parentId": "58407bae4d7b7e82691e4b67",
@@ -157,29 +111,6 @@
       "alt": "",
       "large": "course/en/assets/93089975ae667a03fedbc7cdd2e50af87afbed3b.gif",
       "small": "course/en/assets/93089975ae667a03fedbc7cdd2e50af87afbed3b.gif",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "584ee3514e62ce485eb14587",
-    "_layout": "right",
-    "_parentId": "584ee3424e62ce485eb14585",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "white",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/6ab98b5ebf05188c63a217fa1728fa3b3ee19f3d.png",
-      "small": "course/en/assets/6ab98b5ebf05188c63a217fa1728fa3b3ee19f3d.png",
       "attribution": ""
     }
   },
@@ -216,52 +147,6 @@
       "_isEnabled": true
     },
     "instruction": ""
-  },
-  {
-    "_id": "58a1c736fda9f5660ad84ad2",
-    "_layout": "right",
-    "_parentId": "58a1c736fda9f5660ad84ad1",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
-      "small": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "584eb2554e62ce485eb144fa",
-    "_layout": "left",
-    "_parentId": "584eb2474e62ce485eb144f9",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
-      "small": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
-      "attribution": ""
-    }
   },
   {
     "_id": "587e078db61c46e176e7e1b0",
@@ -795,52 +680,6 @@
     }
   },
   {
-    "_id": "58407c584d7b7e82691e4b6b",
-    "_layout": "left",
-    "_parentId": "58407c4e4d7b7e82691e4b6a",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/819c25e749d3a1b08083964d1604b8f29aedc806.png",
-      "small": "course/en/assets/819c25e749d3a1b08083964d1604b8f29aedc806.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "584080004d7b7e82691e4b73",
-    "_layout": "right",
-    "_parentId": "58407fe74d7b7e82691e4b71",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
-      "small": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "584ee3294e62ce485eb14582",
     "_layout": "right",
     "_parentId": "584ee30e4e62ce485eb1457f",
@@ -860,52 +699,6 @@
       "alt": "",
       "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
       "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "584ee3834e62ce485eb14589",
-    "_layout": "left",
-    "_parentId": "584ee3694e62ce485eb14588",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/2c892e598e3cfd41ff06c3b7a59a31ea49d13010.png",
-      "small": "course/en/assets/2c892e598e3cfd41ff06c3b7a59a31ea49d13010.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "584ebfbe4e62ce485eb1453b",
-    "_layout": "right",
-    "_parentId": "584ebfa34e62ce485eb14535",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/819c25e749d3a1b08083964d1604b8f29aedc806.png",
-      "small": "course/en/assets/819c25e749d3a1b08083964d1604b8f29aedc806.png",
       "attribution": ""
     }
   },
@@ -971,52 +764,6 @@
       "_isEnabled": true
     },
     "instruction": ""
-  },
-  {
-    "_id": "584131e34d7b7e82691e4b7d",
-    "_layout": "left",
-    "_parentId": "584131cf4d7b7e82691e4b7b",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "white",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/6ab98b5ebf05188c63a217fa1728fa3b3ee19f3d.png",
-      "small": "course/en/assets/6ab98b5ebf05188c63a217fa1728fa3b3ee19f3d.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "586e67feb61c46e176e7e15c",
-    "_layout": "left",
-    "_parentId": "586e67e2b61c46e176e7e15a",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/129d64c8646a967c58fe53c0e19103e1bc14f07e.jpg",
-      "small": "course/en/assets/129d64c8646a967c58fe53c0e19103e1bc14f07e.jpg",
-      "attribution": ""
-    }
   },
   {
     "_id": "585404e8b61c46e176e7e0ef",
@@ -1223,29 +970,6 @@
     }
   },
   {
-    "_id": "586e66c5b61c46e176e7e156",
-    "_layout": "right",
-    "_parentId": "586e66b3b61c46e176e7e154",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "white",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/099adb319c4910eec7c518c71cb42752af62327c.jpg",
-      "small": "course/en/assets/099adb319c4910eec7c518c71cb42752af62327c.jpg",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "585404dfb61c46e176e7e0ee",
     "_layout": "left",
     "_parentId": "5854046eb61c46e176e7e0ed",
@@ -1382,52 +1106,6 @@
     "_shouldCollapseItems": true
   },
   {
-    "_id": "587e08bfb61c46e176e7e1bb",
-    "_layout": "right",
-    "_parentId": "587e08b3b61c46e176e7e1b9",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/7b26c3182c57927c34d776374088360456863df7.jpg",
-      "small": "course/en/assets/7b26c3182c57927c34d776374088360456863df7.jpg",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "587e09b3b61c46e176e7e1c5",
-    "_layout": "left",
-    "_parentId": "587e0997b61c46e176e7e1c4",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
-      "small": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "587e09b6b61c46e176e7e1c6",
     "_layout": "right",
     "_parentId": "587e0997b61c46e176e7e1c4",
@@ -1483,29 +1161,6 @@
       "_isEnabled": true
     },
     "instruction": ""
-  },
-  {
-    "_id": "587e0a43b61c46e176e7e1d8",
-    "_layout": "right",
-    "_parentId": "587e0a2ab61c46e176e7e1d6",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/b7f108cb75f85cb8c11f533f9cc0c5a3b34e0384.jpg",
-      "small": "course/en/assets/b7f108cb75f85cb8c11f533f9cc0c5a3b34e0384.jpg",
-      "attribution": ""
-    }
   },
   {
     "_id": "587e0a3db61c46e176e7e1d7",
@@ -1571,29 +1226,6 @@
       }
     ],
     "_shouldCollapseItems": true
-  },
-  {
-    "_id": "587e0ae4b61c46e176e7e1e2",
-    "_layout": "left",
-    "_parentId": "587e0ad7b61c46e176e7e1e1",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/3aeeed43e4590c3367e4ebeff4b6ff25ddc6ee28.jpg",
-      "small": "course/en/assets/3aeeed43e4590c3367e4ebeff4b6ff25ddc6ee28.jpg",
-      "attribution": ""
-    }
   },
   {
     "_id": "587e0ae7b61c46e176e7e1e3",
@@ -1799,29 +1431,6 @@
     }
   },
   {
-    "_id": "587e0da2b61c46e176e7e235",
-    "_layout": "left",
-    "_parentId": "587e0d92b61c46e176e7e234",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
-      "small": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "587e0da9b61c46e176e7e236",
     "_layout": "right",
     "_parentId": "587e0d92b61c46e176e7e234",
@@ -1900,29 +1509,6 @@
     }
   },
   {
-    "_id": "587e0e3eb61c46e176e7e249",
-    "_layout": "right",
-    "_parentId": "587e0e1cb61c46e176e7e247",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/a4e1ed47c1d4c605cacc0e2deb4b291dc3eeadc6.jpg",
-      "small": "course/en/assets/a4e1ed47c1d4c605cacc0e2deb4b291dc3eeadc6.jpg",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "587e0e3cb61c46e176e7e248",
     "_layout": "left",
     "_parentId": "587e0e1cb61c46e176e7e247",
@@ -1998,29 +1584,6 @@
       },
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
-    }
-  },
-  {
-    "_id": "587e0eb5b61c46e176e7e25b",
-    "_layout": "left",
-    "_parentId": "587e0ea2b61c46e176e7e25a",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/18f7dfef9329e251dd9d3b8920ee0a120b661a4d.jpg",
-      "small": "course/en/assets/18f7dfef9329e251dd9d3b8920ee0a120b661a4d.jpg",
-      "attribution": ""
     }
   },
   {
@@ -2188,52 +1751,6 @@
     }
   },
   {
-    "_id": "587e224cb61c46e176e7e2b1",
-    "_layout": "left",
-    "_parentId": "587e224cb61c46e176e7e29b",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
-      "small": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "587e224cb61c46e176e7e2b8",
-    "_layout": "right",
-    "_parentId": "587e224cb61c46e176e7e29c",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/7c9694500a5abd685a4c7e162d12e6410f944aee.jpg",
-      "small": "course/en/assets/7c9694500a5abd685a4c7e162d12e6410f944aee.jpg",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "587e224cb61c46e176e7e2c0",
     "_layout": "right",
     "_parentId": "587e224cb61c46e176e7e29d",
@@ -2272,29 +1789,6 @@
       "_isEnabled": true
     },
     "instruction": ""
-  },
-  {
-    "_id": "587e224cb61c46e176e7e2c8",
-    "_layout": "left",
-    "_parentId": "587e224cb61c46e176e7e29e",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/94c4c63ec48f60d70c5e410b4f75b5f07ff640c2.jpg",
-      "small": "course/en/assets/94c4c63ec48f60d70c5e410b4f75b5f07ff640c2.jpg",
-      "attribution": ""
-    }
   },
   {
     "_id": "587e224cb61c46e176e7e2cf",
@@ -2351,29 +1845,6 @@
       }
     ],
     "_shouldCollapseItems": true
-  },
-  {
-    "_id": "587e224cb61c46e176e7e2d0",
-    "_layout": "right",
-    "_parentId": "587e224cb61c46e176e7e29f",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/cee6cca8f3fc96016fdb0cb042dc1a6caf5f2016.jpg",
-      "small": "course/en/assets/cee6cca8f3fc96016fdb0cb042dc1a6caf5f2016.jpg",
-      "attribution": ""
-    }
   },
   {
     "_id": "587e224cb61c46e176e7e2de",
@@ -2505,52 +1976,6 @@
     "instruction": ""
   },
   {
-    "_id": "587e224db61c46e176e7e303",
-    "_layout": "right",
-    "_parentId": "587e224cb61c46e176e7e2a3",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/cee6cca8f3fc96016fdb0cb042dc1a6caf5f2016.jpg",
-      "small": "course/en/assets/cee6cca8f3fc96016fdb0cb042dc1a6caf5f2016.jpg",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "587e224db61c46e176e7e315",
-    "_layout": "left",
-    "_parentId": "587e224cb61c46e176e7e2a4",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/b7f108cb75f85cb8c11f533f9cc0c5a3b34e0384.jpg",
-      "small": "course/en/assets/b7f108cb75f85cb8c11f533f9cc0c5a3b34e0384.jpg",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "587e224db61c46e176e7e326",
     "_layout": "right",
     "_parentId": "587e224cb61c46e176e7e2a4",
@@ -2628,57 +2053,11 @@
     }
   },
   {
-    "_id": "587e224db61c46e176e7e327",
-    "_layout": "right",
-    "_parentId": "587e224cb61c46e176e7e2a5",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/94c4c63ec48f60d70c5e410b4f75b5f07ff640c2.jpg",
-      "small": "course/en/assets/94c4c63ec48f60d70c5e410b4f75b5f07ff640c2.jpg",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "587e224db61c46e176e7e339",
-    "_layout": "left",
-    "_parentId": "587e224cb61c46e176e7e2a6",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/a4e1ed47c1d4c605cacc0e2deb4b291dc3eeadc6.jpg",
-      "small": "course/en/assets/a4e1ed47c1d4c605cacc0e2deb4b291dc3eeadc6.jpg",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "587e224db61c46e176e7e34a",
     "_layout": "right",
     "_parentId": "587e224cb61c46e176e7e2a6",
     "_type": "component",
-    "body": "<p>When publishing your data, it is important to...</p>\n",
+    "body": "<p>When publishing your data, it is important to...</p>",
     "displayTitle": "Finding your data",
     "title": "Finding your data",
     "_isAvailable": true,
@@ -2696,12 +2075,12 @@
         "feedback": ""
       },
       {
-        "text": "hide the location from the user",
+        "text": "regularly change the web address",
         "_shouldBeSelected": false,
         "feedback": ""
       },
       {
-        "text": "regularly change the web address",
+        "text": "hide the location from the user",
         "_shouldBeSelected": false,
         "feedback": ""
       }
@@ -2709,15 +2088,16 @@
     "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
+    "_canShowMarking": true,
     "_shouldDisplayAttempts": false,
     "_isRandom": true,
     "_recordInteraction": true,
     "_questionWeight": 1,
     "_selectable": 1,
     "_feedback": {
-      "correct": "<p>That&#39;s right!</p>\n\n<p>When publishing your data you should always use a consistent URL. You should also add a second URL that lets people know exactly what data they can expect to find on the page</p>\n",
+      "correct": "<p>That&#39;s right!</p><p>When publishing your data you should always use a consistent URL. You should also add a second URL that lets people know exactly what data they can expect to find on the page</p>",
       "_incorrect": {
-        "final": "<p>Are you sure about that?</p>\n\n<p>When publishing your data you should always use a consistent URL. You should also add a second URL that lets people know exactly what data they can expect to find on the page</p>\n",
+        "final": "<p>Are you sure about that?</p><p>When publishing your data you should always use a consistent URL. You should also add a second URL that lets people know exactly what data they can expect to find on the page</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -2889,29 +2269,6 @@
     "_shouldCollapseItems": true
   },
   {
-    "_id": "587e31edb61c46e176e7e3aa",
-    "_layout": "left",
-    "_parentId": "587e31cbb61c46e176e7e3a8",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/ac8ed9a5107f9fa9e722fd5917db7325e48cbe49.jpg",
-      "small": "course/en/assets/ac8ed9a5107f9fa9e722fd5917db7325e48cbe49.jpg",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "587e31eab61c46e176e7e3a9",
     "_layout": "right",
     "_parentId": "587e31cbb61c46e176e7e3a8",
@@ -3049,52 +2406,6 @@
       }
     ],
     "_shouldCollapseItems": true
-  },
-  {
-    "_id": "587e3365b61c46e176e7e3c7",
-    "_layout": "right",
-    "_parentId": "587e3349b61c46e176e7e3c5",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/f0610341fe3a938c2e52a3481600858a4c5b5273.jpg",
-      "small": "course/en/assets/f0610341fe3a938c2e52a3481600858a4c5b5273.jpg",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "587e367eb61c46e176e7e3ee",
-    "_layout": "left",
-    "_parentId": "587e362bb61c46e176e7e3c8",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/f0610341fe3a938c2e52a3481600858a4c5b5273.jpg",
-      "small": "course/en/assets/f0610341fe3a938c2e52a3481600858a4c5b5273.jpg",
-      "attribution": ""
-    }
   },
   {
     "_id": "587e367bb61c46e176e7e3ed",
@@ -3425,29 +2736,6 @@
     }
   },
   {
-    "_id": "587e3feeb61c46e176e7e445",
-    "_layout": "right",
-    "_parentId": "587e3feeb61c46e176e7e42d",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/39dd7ab8c3ce4c1cae1f1bb14f189b5c452699a5.jpg",
-      "small": "course/en/assets/39dd7ab8c3ce4c1cae1f1bb14f189b5c452699a5.jpg",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "587e3feeb61c46e176e7e45a",
     "_layout": "left",
     "_parentId": "587e3feeb61c46e176e7e42d",
@@ -3503,29 +2791,6 @@
       "_isEnabled": true
     },
     "instruction": ""
-  },
-  {
-    "_id": "587e3fefb61c46e176e7e48f",
-    "_layout": "right",
-    "_parentId": "587e3feeb61c46e176e7e431",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/2e14bb666f0b440e01a1e6e5a4dbd446aa325cf3.jpg",
-      "small": "course/en/assets/2e14bb666f0b440e01a1e6e5a4dbd446aa325cf3.jpg",
-      "attribution": ""
-    }
   },
   {
     "_id": "587e3fefb61c46e176e7e4af",
@@ -3608,29 +2873,6 @@
     "instruction": ""
   },
   {
-    "_id": "587e3fefb61c46e176e7e4d7",
-    "_layout": "right",
-    "_parentId": "587e3feeb61c46e176e7e435",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/39dd7ab8c3ce4c1cae1f1bb14f189b5c452699a5.jpg",
-      "small": "course/en/assets/39dd7ab8c3ce4c1cae1f1bb14f189b5c452699a5.jpg",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "587e3fefb61c46e176e7e4e8",
     "_layout": "left",
     "_parentId": "587e3feeb61c46e176e7e435",
@@ -3706,29 +2948,6 @@
       },
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
-    }
-  },
-  {
-    "_id": "587e3fefb61c46e176e7e4e9",
-    "_layout": "left",
-    "_parentId": "587e3feeb61c46e176e7e436",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/c9e5a7726f99bdb20ef3e3e96449bb613a982ae8.jpg",
-      "small": "course/en/assets/c9e5a7726f99bdb20ef3e3e96449bb613a982ae8.jpg",
-      "attribution": ""
     }
   },
   {
@@ -3810,29 +3029,6 @@
     }
   },
   {
-    "_id": "587e3fefb61c46e176e7e4fb",
-    "_layout": "right",
-    "_parentId": "587e3feeb61c46e176e7e437",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/d0bbb7bab4bd1d32d12fe184245de0469eb663c7.jpg",
-      "small": "course/en/assets/d0bbb7bab4bd1d32d12fe184245de0469eb663c7.jpg",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "587e3fefb61c46e176e7e50c",
     "_layout": "left",
     "_parentId": "587e3feeb61c46e176e7e437",
@@ -3911,29 +3107,6 @@
     }
   },
   {
-    "_id": "587e3fefb61c46e176e7e50d",
-    "_layout": "left",
-    "_parentId": "587e3feeb61c46e176e7e438",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/a4e1ed47c1d4c605cacc0e2deb4b291dc3eeadc6.jpg",
-      "small": "course/en/assets/a4e1ed47c1d4c605cacc0e2deb4b291dc3eeadc6.jpg",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "587e3fefb61c46e176e7e51f",
     "_layout": "left",
     "_parentId": "587e3feeb61c46e176e7e439",
@@ -3995,104 +3168,6 @@
       "small": "course/en/assets/a3eabc9ff7af595c2356ac8a06ded65c0f635501.png",
       "attribution": ""
     }
-  },
-  {
-    "_id": "587e41d9b61c46e176e7e597",
-    "_layout": "full",
-    "_parentId": "587e3feeb61c46e176e7e42e",
-    "_type": "component",
-    "body": "<p>The structure (or schema) of a dataset is a major factor in how useful your data will be to others, as data can be more easily combined and compared if&nbsp;published&nbsp;consistently. You can think of the structure as a set of standard and defined column headings for a dataset. Find out below how to decide which schema should apply to your dataset. For example, INSPIRE provides&nbsp;<a href=\"http://www.local.gov.uk/c/document_library/get_file?uuid=ba19b779-eb8d-404c-af07-25ecd921aed9\" target=\"_blank\">European-standard schemas</a>&nbsp;for geospatial data in the environment.</p>",
-    "displayTitle": "What is the best way to structure data consistently?",
-    "title": "What is the best way to structure data consistently?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "narrative",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click the forward arrow for more",
-    "mobileInstruction": "Select the ‘+’ sign to explore further, then swipe the image to see more",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "allItems",
-    "_items": [
-      {
-        "title": "What are the benefits of schemas",
-        "body": "<p>Schemas help your publishing in two ways. First, a schema helps people combine or compare their data with the same type of data from other publishers, for use in their apps or analytics. Second, a schema saves you time and money when getting data ready for publishing, as you can use one&nbsp;that already exists.</p><p>A schema gives people simple access to national services. The&nbsp;<a href=\"http://greatbritishpublictoiletmap.rca.ac.uk/\" target=\"_blank\">Great British Public Toilet Map</a>&nbsp;is a perfect example. The only way a service like this can deliver a national picture of public conveniences is if all the local authorities publish their data to a&nbsp;<a href=\"http://schemas.opendata.esd.org.uk/PublicToilets\" target=\"_blank\">consistent schema.</a>&nbsp;The map helps to make the experience of finding public conveniences less stressful&nbsp;and&nbsp;also helps to surface the opportunities for&nbsp;<a href=\"http://www.theguardian.com/uk-news/2014/nov/19/uk-public-toilets-mapped-wheres-your-nearest\" target=\"_blank\">greater collaboration between businesses and local authorities.</a></p>",
-        "_graphic": {
-          "src": "course/en/assets/2fe57077a9b28018eac39034dad2e66bf4e34f76.jpg",
-          "alt": ""
-        },
-        "strapline": "What are the benefits of schemas"
-      },
-      {
-        "title": "Using an existing schema",
-        "body": "<p>The best choice when&nbsp;structuring&nbsp;your dataset is an existing standard schema. Using a standard schema ensures your data can be instantly combined with that of other publishers. The Local Government Association (LGA)&nbsp;keeps a library of popular schemas that it&nbsp;encourages all local government data publishers to use.</p><p>By using a standard schema, your open data can be combined with other authorities&#39; releases to build up regional and national overviews.</p><p>Using standard schemas is simple: just find the right schema for your dataset, rename your column headings to match and save the result. Under the practical guidance section of this module you will find detailed instructions on using LG standard schemas.</p>",
-        "_graphic": {
-          "src": "course/en/assets/eed0644dc961a7812f4380ae199c1a1bc239ad74.jpg",
-          "alt": ""
-        },
-        "strapline": "Using an existing schema"
-      },
-      {
-        "title": "Creating a new schema",
-        "body": "<p>Is there no common schema for the dataset you are publishing? Before creating a new one, why not find out whether&nbsp;there is already some consensus among an existing community of users somewhere (for this, use your favourite search engine). You might need to contribute a new schema but there may be an opportunity to get the community to help. A good place to start is&nbsp;<a href=\"http://i-network.org.uk/legsb-3/\" target=\"_blank\">iStandUK</a>, an active community of local government experts who can support the development of a new schema.</p>",
-        "_graphic": {
-          "src": "course/en/assets/42b138ca58598195931fd55cd7d078d47f87a897.jpg",
-          "alt": ""
-        },
-        "strapline": "Creating a new schema"
-      }
-    ]
-  },
-  {
-    "_id": "587e429cb61c46e176e7e59e",
-    "_layout": "full",
-    "_parentId": "587e3feeb61c46e176e7e430",
-    "_type": "component",
-    "body": "<p>Consistent publication brings a range of benefits for local authorities.</p>",
-    "displayTitle": "How to publish your dataset: choosing the right schema",
-    "title": "How to publish your dataset: choosing the right schema",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "narrative",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click the forward arrow for more",
-    "mobileInstruction": "Select the ‘+’ sign to explore further, then swipe the image to see more",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "allItems",
-    "_items": [
-      {
-        "title": "Core open data schemas",
-        "body": "<p>LGA keeps a definitive set of schemas for the datasets that local authorities have to publish under the Local Government Transparency Code, along with other popular open datasets. If you are publishing data in one of these categories, we strongly recommend following the relevant schema. For any of these schemas, alter or add column headings to your dataset to match and save the results:</p><ul><li><a href=\"http://schemas.opendata.esd.org.uk/Contracts\" target=\"_blank\">Contracts</a></li><li><a href=\"http://schemas.opendata.esd.org.uk/LandAndBuilding\" target=\"_blank\">Land and Buildings</a></li><li><a href=\"http://schemas.opendata.esd.org.uk/OrganisationStructure\" target=\"_blank\">Organisation Structure</a></li><li><a href=\"http://schemas.opendata.esd.org.uk/Parking\" target=\"_blank\">Parking</a></li><li><a href=\"http://schemas.opendata.esd.org.uk/SeniorEmployees\" target=\"_blank\">Senior Employees</a></li><li><a href=\"http://schemas.opendata.esd.org.uk/SeniorSalaryCount\" target=\"_blank\">Senior Employee Count</a></li><li><a href=\"http://schemas.opendata.esd.org.uk/Spend\" target=\"_blank\">Spend</a></li><li><a href=\"http://schemas.opendata.esd.org.uk/PlanningApplications\" target=\"_blank\">Planning Applications</a></li><li><a href=\"http://schemas.opendata.esd.org.uk/PremisesLicences\" target=\"_blank\">Premises Licences</a></li><li><a href=\"http://schemas.opendata.esd.org.uk/PublicToilets\" target=\"_blank\">Public Toilets</a></li></ul><p>If the dataset you are publishing isn&#39;t covered above, scroll right to find out about community schemas.</p>",
-        "_graphic": {
-          "src": "course/en/assets/fc2d8d76d6b6a31465bd431007605579174b6e34.jpg",
-          "alt": ""
-        },
-        "strapline": "Core open data schemas"
-      },
-      {
-        "title": "Community open data schemas",
-        "body": "<p>If the dataset you are publishing is not covered by one of the core schemas referenced by LGA, you may be able to find a common schema from other local authorities in the community. For certain types of data, common schemas are published by other communities, such as the open data community&nbsp;<a href=\"https://github.com/inspire-eu-validation\" target=\"_blank\">Github INSPIRE</a>&nbsp;for geospatial environmental data and&nbsp;<a href=\"https://www.geoplace.co.uk/documents/10181/138013/BS7666%20explained\" target=\"_blank\">BS7666</a>&nbsp;for address and land use. In addition, the LGA schema directory keeps track of over 640 schemas from local authorities across the UK. Simply search the directory for the type of data you plan to publish, and it will show you the common schemas that match.<br /><a href=\"http://schemas.opendata.esd.org.uk/\" target=\"_blank\">Take me to the LGA community schema directory</a></p><p><br />If the dataset you are publishing isn&#39;t covered by any of those in the community, it may be necessary to create your own schema. There are some guidelines that can help you to create a good one &ndash; scroll right to find them.</p>",
-        "_graphic": {
-          "src": "course/en/assets/6390ca99e74ee881fc1042c7a43913d91caed010.jpg",
-          "alt": ""
-        },
-        "strapline": "Community open data schemas"
-      },
-      {
-        "title": "Creating a new schema",
-        "body": "<p>You may want to create a new schema if&nbsp;none exist&nbsp;in the LGA directory that matches your dataset and you can&#39;t find one from another community. If you need to create a new schema, make sure that it is as simple as possible, links to and references common URI &ndash; such as local authority name, services, unique reference numbers (see module 2 for more information) &ndash; and that you submit the results back to the&nbsp;<a href=\"http://schemas.opendata.esd.org.uk/\" target=\"_blank\">LGA community schema directory</a>.</p>",
-        "_graphic": {
-          "src": "course/en/assets/301936c4e7d37e6647647b3c3e5a305f0ae8a56f.jpg",
-          "alt": ""
-        },
-        "strapline": "Creating a new schema"
-      }
-    ]
   },
   {
     "_id": "587e3fefb61c46e176e7e4ae",
@@ -4157,64 +3232,6 @@
       "_isEnabled": true
     },
     "instruction": ""
-  },
-  {
-    "_id": "587e448db61c46e176e7e5d2",
-    "_layout": "full",
-    "_parentId": "587e4476b61c46e176e7e5d1",
-    "_type": "component",
-    "body": "<p>ODI Open Data Certificate&nbsp;considers the legal, practical, technical and social requirements for an open dataset to be useful.</p>",
-    "displayTitle": "What does the Open Data Certificate look for?",
-    "title": "What does the Open Data Certificate look for?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "color-five",
-    "_component": "narrative",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click the forward arrow for more",
-    "mobileInstruction": "Select the ‘+’ sign to explore further, then swipe the image to see more",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "allItems",
-    "_items": [
-      {
-        "title": "Legal requirements",
-        "body": "<p>In addition to the open licence, there are three legal requirements that need to be considered.</p>\n\n<p>You must:</p>\n\n<ul>\n\t<li>Protect sensitive information like personal data</li>\n\t<li>Preserve the rights of data owners</li>\n\t<li>Promote correct use of the data</li>\n</ul>\n",
-        "_graphic": {
-          "src": "course/en/assets/d4df87128f27407a4835f94399a131d22185ca26.jpg",
-          "alt": ""
-        },
-        "strapline": "Legal requirements"
-      },
-      {
-        "title": "Practical requirements",
-        "body": "<p>It is important that open data can be found and relied upon by users.</p>\n\n<p>This means that open data publishers must:</p>\n\n<ul>\n\t<li>Link to the data from their website</li>\n\t<li>Update the data regularly if it changes</li>\n\t<li>Commit to continue to make the data available</li>\n</ul>\n",
-        "_graphic": {
-          "src": "course/en/assets/3bd032ada03e207a4f6a18675e692a1d00584dd3.jpg",
-          "alt": ""
-        },
-        "strapline": "Practical requirements"
-      },
-      {
-        "title": "Technical requirements",
-        "body": "<p>There are three recommendations that define the technical aspects of open data:</p>\n\n<ul>\n\t<li>The format in which the data is published</li>\n\t<li>The structure of the data</li>\n\t<li>The channels through which the data is available</li>\n</ul>\n",
-        "_graphic": {
-          "src": "course/en/assets/14fad81b7ca38acf03071734b8362c47fd3d3997.jpg",
-          "alt": ""
-        },
-        "strapline": "Technical requirements"
-      },
-      {
-        "title": "Social requirements",
-        "body": "<p>For data use to be sustainable, it is important to have an engaged community of users. The best datasets have:</p>\n\n<ul>\n\t<li>Active support channels</li>\n\t<li>Discussion groups and forums</li>\n\t<li>Published how-to guides on working with the data</li>\n</ul>\n",
-        "_graphic": {
-          "src": "course/en/assets/ecc29cb1588c4f76a0bcf5e2f706110c960c328a.jpg",
-          "alt": ""
-        },
-        "strapline": "Social requirements"
-      }
-    ]
   },
   {
     "_id": "587e45a9b61c46e176e7e5da",
@@ -4561,52 +3578,6 @@
     "_shouldCollapseItems": true
   },
   {
-    "_id": "5891f7e4b61c46e176e7f053",
-    "_layout": "right",
-    "_parentId": "5891f782b61c46e176e7f051",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
-      "small": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "5898b5abfda9f5660ad84563",
-    "_layout": "left",
-    "_parentId": "5898b5abfda9f5660ad84561",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/129d64c8646a967c58fe53c0e19103e1bc14f07e.jpg",
-      "small": "course/en/assets/129d64c8646a967c58fe53c0e19103e1bc14f07e.jpg",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "5899eabefda9f5660ad84594",
     "_layout": "left",
     "_parentId": "5899eabefda9f5660ad84590",
@@ -4830,29 +3801,6 @@
     "_shouldCollapseItems": true
   },
   {
-    "_id": "58a04844fda9f5660ad84a5c",
-    "_layout": "left",
-    "_parentId": "589b3048fda9f5660ad84a38",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/cdce8ea3ed04a12e226ca17c8e5be93fffe1fb11.png",
-      "small": "course/en/assets/cdce8ea3ed04a12e226ca17c8e5be93fffe1fb11.png",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "5898b5b9fda9f5660ad84566",
     "_layout": "right",
     "_parentId": "5898b5abfda9f5660ad84561",
@@ -4907,29 +3855,6 @@
       }
     ],
     "_shouldCollapseItems": true
-  },
-  {
-    "_id": "58a04cbefda9f5660ad84a76",
-    "_layout": "left",
-    "_parentId": "58a04c73fda9f5660ad84a75",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
-      "small": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
-      "attribution": ""
-    }
   },
   {
     "_id": "58a04cc3fda9f5660ad84a77",
@@ -5095,26 +4020,249 @@
     "instruction": ""
   },
   {
-    "_id": "5899eabefda9f5660ad84591",
+    "_id": "587e08bfb61c46e176e7e1bb",
     "_layout": "right",
-    "_parentId": "5899eabefda9f5660ad84590",
+    "_parentId": "587e08b3b61c46e176e7e1b9",
     "_type": "component",
     "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
+    "displayTitle": " ",
+    "title": " ",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7b26c3182c57927c34d776374088360456863df7.jpg",
+      "small": "course/en/assets/7b26c3182c57927c34d776374088360456863df7.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-54795127.html\" target=\"_blank\">robodread</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "587e09b3b61c46e176e7e1c5",
+    "_layout": "left",
+    "_parentId": "587e0997b61c46e176e7e1c4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
       "large": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
       "small": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
-      "attribution": ""
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/3d-illustration-concept-data-179384507?src=lb-35924366\" target=\"_blank\">leromin</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "587e0a43b61c46e176e7e1d8",
+    "_layout": "right",
+    "_parentId": "587e0a2ab61c46e176e7e1d6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b7f108cb75f85cb8c11f533f9cc0c5a3b34e0384.jpg",
+      "small": "course/en/assets/b7f108cb75f85cb8c11f533f9cc0c5a3b34e0384.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-77222599.html\" target=\"_blank\">Pavel Ignatov</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "587e31edb61c46e176e7e3aa",
+    "_layout": "left",
+    "_parentId": "587e31cbb61c46e176e7e3a8",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ac8ed9a5107f9fa9e722fd5917db7325e48cbe49.jpg",
+      "small": "course/en/assets/ac8ed9a5107f9fa9e722fd5917db7325e48cbe49.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/global-communication-concept-102447179\" target=\"_blank\">hoperan</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "587e3365b61c46e176e7e3c7",
+    "_layout": "right",
+    "_parentId": "587e3349b61c46e176e7e3c5",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f0610341fe3a938c2e52a3481600858a4c5b5273.jpg",
+      "small": "course/en/assets/f0610341fe3a938c2e52a3481600858a4c5b5273.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-203239417.html\" target=\"_blank\">Ozerina Anna</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "587e448db61c46e176e7e5d2",
+    "_layout": "full",
+    "_parentId": "587e4476b61c46e176e7e5d1",
+    "_type": "component",
+    "body": "<p>ODI Open Data Certificate&nbsp;considers the legal, practical, technical and social requirements for an open dataset to be useful.</p>",
+    "displayTitle": "What does the Open Data Certificate look for?",
+    "title": "What does the Open Data Certificate look for?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-five",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow for more",
+    "mobileInstruction": "Select the ‘+’ sign to explore further, then swipe the image to see more",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Legal requirements",
+        "body": "<p>In addition to the open licence, there are three legal requirements that need to be considered.</p><p>You must:</p><ul><li>Protect sensitive information like personal data</li><li>Preserve the rights of data owners</li><li>Promote correct use of the data</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/d4df87128f27407a4835f94399a131d22185ca26.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-239545075.html\" target=\"_blank\">everything possible</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Legal requirements"
+      },
+      {
+        "title": "Practical requirements",
+        "body": "<p>It is important that open data can be found and relied upon by users.</p><p>This means that open data publishers must:</p><ul><li>Link to the data from their website</li><li>Update the data regularly if it changes</li><li>Commit to continue to make the data available</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/3bd032ada03e207a4f6a18675e692a1d00584dd3.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-201870622.html\" target=\"_blank\">Your Design</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Practical requirements"
+      },
+      {
+        "title": "Technical requirements",
+        "body": "<p>There are three recommendations that define the technical aspects of open data:</p><ul><li>The format in which the data is published</li><li>The structure of the data</li><li>The channels through which the data is available</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/14fad81b7ca38acf03071734b8362c47fd3d3997.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366\" target=\"_blank\">Oleksiy Mark</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Technical requirements"
+      },
+      {
+        "title": "Social requirements",
+        "body": "<p>For data use to be sustainable, it is important to have an engaged community of users. The best datasets have:</p><ul><li>Active support channels</li><li>Discussion groups and forums</li><li>Published how-to guides on working with the data</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/ecc29cb1588c4f76a0bcf5e2f706110c960c328a.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=58591429&src=lb-36497927\" target=\"_blank\">higyou</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Social requirements"
+      }
+    ]
+  },
+  {
+    "_id": "587e3fefb61c46e176e7e4e9",
+    "_layout": "left",
+    "_parentId": "587e3feeb61c46e176e7e436",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c9e5a7726f99bdb20ef3e3e96449bb613a982ae8.jpg",
+      "small": "course/en/assets/c9e5a7726f99bdb20ef3e3e96449bb613a982ae8.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=144334663&src=lb-36497927\" target=\"_blank\">vs148</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "587e3fefb61c46e176e7e4fb",
+    "_layout": "right",
+    "_parentId": "587e3feeb61c46e176e7e437",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d0bbb7bab4bd1d32d12fe184245de0469eb663c7.jpg",
+      "small": "course/en/assets/d0bbb7bab4bd1d32d12fe184245de0469eb663c7.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-201870622.html\" target=\"_blank\">Your Design</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "587e3fefb61c46e176e7e50d",
+    "_layout": "left",
+    "_parentId": "587e3feeb61c46e176e7e438",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a4e1ed47c1d4c605cacc0e2deb4b291dc3eeadc6.jpg",
+      "small": "course/en/assets/a4e1ed47c1d4c605cacc0e2deb4b291dc3eeadc6.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366\" target=\"_blank\">Oleksiy Mark</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
     }
   },
   {
@@ -5315,6 +4463,731 @@
     "_shouldCollapseItems": true
   },
   {
+    "_id": "587e0ae4b61c46e176e7e1e2",
+    "_layout": "left",
+    "_parentId": "587e0ad7b61c46e176e7e1e1",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3aeeed43e4590c3367e4ebeff4b6ff25ddc6ee28.jpg",
+      "small": "course/en/assets/3aeeed43e4590c3367e4ebeff4b6ff25ddc6ee28.jpg",
+      "attribution": "<a href=\"theodi.org\" target=\"_blank\">Sponge UK </a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "587e0cc7b61c46e176e7e223",
+    "_layout": "right",
+    "_parentId": "587e0cb3b61c46e176e7e221",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7b26c3182c57927c34d776374088360456863df7.jpg",
+      "small": "course/en/assets/7b26c3182c57927c34d776374088360456863df7.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-54795127.html\" target=\"_blank\">robodread</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "587e0da2b61c46e176e7e235",
+    "_layout": "left",
+    "_parentId": "587e0d92b61c46e176e7e234",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+      "small": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/3d-illustration-concept-data-179384507?src=lb-35924366\" target=\"_blank\">leromin</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "587e0e3eb61c46e176e7e249",
+    "_layout": "right",
+    "_parentId": "587e0e1cb61c46e176e7e247",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a4e1ed47c1d4c605cacc0e2deb4b291dc3eeadc6.jpg",
+      "small": "course/en/assets/a4e1ed47c1d4c605cacc0e2deb4b291dc3eeadc6.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366\" target=\"_blank\">Oleksiy Mark</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "587e0eb5b61c46e176e7e25b",
+    "_layout": "left",
+    "_parentId": "587e0ea2b61c46e176e7e25a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/18f7dfef9329e251dd9d3b8920ee0a120b661a4d.jpg",
+      "small": "course/en/assets/18f7dfef9329e251dd9d3b8920ee0a120b661a4d.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/infinite-white-cubes-red-one-representing-254316427\" target=\"_blank\">tostphoto</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "587e224cb61c46e176e7e2b1",
+    "_layout": "left",
+    "_parentId": "587e224cb61c46e176e7e29b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+      "small": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/3d-illustration-concept-data-179384507?src=lb-35924366\" target=\"_blank\">leromin</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "587e224cb61c46e176e7e2b8",
+    "_layout": "right",
+    "_parentId": "587e224cb61c46e176e7e29c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7c9694500a5abd685a4c7e162d12e6410f944aee.jpg",
+      "small": "course/en/assets/7c9694500a5abd685a4c7e162d12e6410f944aee.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-photo/hard-disk-repair-concept-macro-photo-232737427\" target=\"_blank\">Kirill_M</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "587e224cb61c46e176e7e2c8",
+    "_layout": "left",
+    "_parentId": "587e224cb61c46e176e7e29e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/94c4c63ec48f60d70c5e410b4f75b5f07ff640c2.jpg",
+      "small": "course/en/assets/94c4c63ec48f60d70c5e410b4f75b5f07ff640c2.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-232737427\" target=\"_blank\">Kirill_M</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "587e224cb61c46e176e7e2d0",
+    "_layout": "right",
+    "_parentId": "587e224cb61c46e176e7e29f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/cee6cca8f3fc96016fdb0cb042dc1a6caf5f2016.jpg",
+      "small": "course/en/assets/cee6cca8f3fc96016fdb0cb042dc1a6caf5f2016.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/3d-renderer-image-vending-machine-application-277792007?src=id\" target=\"_blank\">MEgo-studio</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "587e367eb61c46e176e7e3ee",
+    "_layout": "left",
+    "_parentId": "587e362bb61c46e176e7e3c8",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f0610341fe3a938c2e52a3481600858a4c5b5273.jpg",
+      "small": "course/en/assets/f0610341fe3a938c2e52a3481600858a4c5b5273.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-203239417.html\" target=\"_blank\">Ozerina Anna</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "587e224db61c46e176e7e315",
+    "_layout": "left",
+    "_parentId": "587e224cb61c46e176e7e2a4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b7f108cb75f85cb8c11f533f9cc0c5a3b34e0384.jpg",
+      "small": "course/en/assets/b7f108cb75f85cb8c11f533f9cc0c5a3b34e0384.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-77222599.html\" target=\"_blank\">Pavel Ignatov</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "587e224db61c46e176e7e327",
+    "_layout": "right",
+    "_parentId": "587e224cb61c46e176e7e2a5",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/94c4c63ec48f60d70c5e410b4f75b5f07ff640c2.jpg",
+      "small": "course/en/assets/94c4c63ec48f60d70c5e410b4f75b5f07ff640c2.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-232737427\" target=\"_blank\">Kirill_M</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "587e224db61c46e176e7e339",
+    "_layout": "left",
+    "_parentId": "587e224cb61c46e176e7e2a6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a4e1ed47c1d4c605cacc0e2deb4b291dc3eeadc6.jpg",
+      "small": "course/en/assets/a4e1ed47c1d4c605cacc0e2deb4b291dc3eeadc6.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366\" target=\"_blank\">Oleksiy Mark</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "587e224db61c46e176e7e303",
+    "_layout": "right",
+    "_parentId": "587e224cb61c46e176e7e2a3",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/cee6cca8f3fc96016fdb0cb042dc1a6caf5f2016.jpg",
+      "small": "course/en/assets/cee6cca8f3fc96016fdb0cb042dc1a6caf5f2016.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/3d-renderer-image-vending-machine-application-277792007?src=id\" target=\"_blank\">MEgo-studio</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "587e3feeb61c46e176e7e445",
+    "_layout": "right",
+    "_parentId": "587e3feeb61c46e176e7e42d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/39dd7ab8c3ce4c1cae1f1bb14f189b5c452699a5.jpg",
+      "small": "course/en/assets/39dd7ab8c3ce4c1cae1f1bb14f189b5c452699a5.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/group-arrows-gear-wheels-speech-bubbles-239488546?src=id\" target=\"_blank\">GiDesign</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "587e41d9b61c46e176e7e597",
+    "_layout": "full",
+    "_parentId": "587e3feeb61c46e176e7e42e",
+    "_type": "component",
+    "body": "<p>The structure (or schema) of a dataset is a major factor in how useful your data will be to others, as data can be more easily combined and compared if&nbsp;published&nbsp;consistently. You can think of the structure as a set of standard and defined column headings for a dataset. Find out below how to decide which schema should apply to your dataset. For example, INSPIRE provides&nbsp;<a href=\"http://www.local.gov.uk/c/document_library/get_file?uuid=ba19b779-eb8d-404c-af07-25ecd921aed9\" target=\"_blank\">European-standard schemas</a>&nbsp;for geospatial data in the environment.</p>",
+    "displayTitle": "What is the best way to structure data consistently?",
+    "title": "What is the best way to structure data consistently?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow for more",
+    "mobileInstruction": "Select the ‘+’ sign to explore further, then swipe the image to see more",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "What are the benefits of schemas",
+        "body": "<p>Schemas help your publishing in two ways. First, a schema helps people combine or compare their data with the same type of data from other publishers, for use in their apps or analytics. Second, a schema saves you time and money when getting data ready for publishing, as you can use one&nbsp;that already exists.</p><p>A schema gives people simple access to national services. The&nbsp;<a href=\"http://greatbritishpublictoiletmap.rca.ac.uk/\" target=\"_blank\">Great British Public Toilet Map</a>&nbsp;is a perfect example. The only way a service like this can deliver a national picture of public conveniences is if all the local authorities publish their data to a&nbsp;<a href=\"http://schemas.opendata.esd.org.uk/PublicToilets\" target=\"_blank\">consistent schema.</a>&nbsp;The map helps to make the experience of finding public conveniences less stressful&nbsp;and&nbsp;also helps to surface the opportunities for&nbsp;<a href=\"http://www.theguardian.com/uk-news/2014/nov/19/uk-public-toilets-mapped-wheres-your-nearest\" target=\"_blank\">greater collaboration between businesses and local authorities.</a></p>",
+        "_graphic": {
+          "src": "course/en/assets/2fe57077a9b28018eac39034dad2e66bf4e34f76.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.fixmystreet.com/\" target=\"_blank\">Fixmystreet</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "What are the benefits of schemas"
+      },
+      {
+        "title": "Using an existing schema",
+        "body": "<p>The best choice when&nbsp;structuring&nbsp;your dataset is an existing standard schema. Using a standard schema ensures your data can be instantly combined with that of other publishers. The Local Government Association (LGA)&nbsp;keeps a library of popular schemas that it&nbsp;encourages all local government data publishers to use.</p><p>By using a standard schema, your open data can be combined with other authorities&#39; releases to build up regional and national overviews.</p><p>Using standard schemas is simple: just find the right schema for your dataset, rename your column headings to match and save the result. Under the practical guidance section of this module you will find detailed instructions on using LG standard schemas.</p>",
+        "_graphic": {
+          "src": "course/en/assets/eed0644dc961a7812f4380ae199c1a1bc239ad74.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/global-communication-concept-102447179\" target=\"_blank\">hoperan</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Using an existing schema"
+      },
+      {
+        "title": "Creating a new schema",
+        "body": "<p>Is there no common schema for the dataset you are publishing? Before creating a new one, why not find out whether&nbsp;there is already some consensus among an existing community of users somewhere (for this, use your favourite search engine). You might need to contribute a new schema but there may be an opportunity to get the community to help. A good place to start is&nbsp;<a href=\"http://i-network.org.uk/legsb-3/\" target=\"_blank\">iStandUK</a>, an active community of local government experts who can support the development of a new schema.</p>",
+        "_graphic": {
+          "src": "course/en/assets/42b138ca58598195931fd55cd7d078d47f87a897.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-photo/software-developer-programming-code-abstract-computer-235025131\" target=\"_blank\">Mclek</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Creating a new schema"
+      }
+    ]
+  },
+  {
+    "_id": "587e429cb61c46e176e7e59e",
+    "_layout": "full",
+    "_parentId": "587e3feeb61c46e176e7e430",
+    "_type": "component",
+    "body": "<p>Consistent publication brings a range of benefits for local authorities.</p>",
+    "displayTitle": "How to publish your dataset: choosing the right schema",
+    "title": "How to publish your dataset: choosing the right schema",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow for more",
+    "mobileInstruction": "Select the ‘+’ sign to explore further, then swipe the image to see more",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Core open data schemas",
+        "body": "<p>LGA keeps a definitive set of schemas for the datasets that local authorities have to publish under the Local Government Transparency Code, along with other popular open datasets. If you are publishing data in one of these categories, we strongly recommend following the relevant schema. For any of these schemas, alter or add column headings to your dataset to match and save the results:</p><ul><li><a href=\"http://schemas.opendata.esd.org.uk/Contracts\" target=\"_blank\">Contracts</a></li><li><a href=\"http://schemas.opendata.esd.org.uk/LandAndBuilding\" target=\"_blank\">Land and Buildings</a></li><li><a href=\"http://schemas.opendata.esd.org.uk/OrganisationStructure\" target=\"_blank\">Organisation Structure</a></li><li><a href=\"http://schemas.opendata.esd.org.uk/Parking\" target=\"_blank\">Parking</a></li><li><a href=\"http://schemas.opendata.esd.org.uk/SeniorEmployees\" target=\"_blank\">Senior Employees</a></li><li><a href=\"http://schemas.opendata.esd.org.uk/SeniorSalaryCount\" target=\"_blank\">Senior Employee Count</a></li><li><a href=\"http://schemas.opendata.esd.org.uk/Spend\" target=\"_blank\">Spend</a></li><li><a href=\"http://schemas.opendata.esd.org.uk/PlanningApplications\" target=\"_blank\">Planning Applications</a></li><li><a href=\"http://schemas.opendata.esd.org.uk/PremisesLicences\" target=\"_blank\">Premises Licences</a></li><li><a href=\"http://schemas.opendata.esd.org.uk/PublicToilets\" target=\"_blank\">Public Toilets</a></li></ul><p>If the dataset you are publishing isn&#39;t covered above, scroll right to find out about community schemas.</p>",
+        "_graphic": {
+          "src": "course/en/assets/fc2d8d76d6b6a31465bd431007605579174b6e34.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=148686812&src=lb-36497927\" target=\"_blank\">vs148</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Core open data schemas"
+      },
+      {
+        "title": "Community open data schemas",
+        "body": "<p>If the dataset you are publishing is not covered by one of the core schemas referenced by LGA, you may be able to find a common schema from other local authorities in the community. For certain types of data, common schemas are published by other communities, such as the open data community&nbsp;<a href=\"https://github.com/inspire-eu-validation\" target=\"_blank\">Github INSPIRE</a>&nbsp;for geospatial environmental data and&nbsp;<a href=\"https://www.geoplace.co.uk/documents/10181/138013/BS7666%20explained\" target=\"_blank\">BS7666</a>&nbsp;for address and land use. In addition, the LGA schema directory keeps track of over 640 schemas from local authorities across the UK. Simply search the directory for the type of data you plan to publish, and it will show you the common schemas that match.<br /><a href=\"http://schemas.opendata.esd.org.uk/\" target=\"_blank\">Take me to the LGA community schema directory</a></p><p><br />If the dataset you are publishing isn&#39;t covered by any of those in the community, it may be necessary to create your own schema. There are some guidelines that can help you to create a good one &ndash; scroll right to find them.</p>",
+        "_graphic": {
+          "src": "course/en/assets/6390ca99e74ee881fc1042c7a43913d91caed010.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=144334663&src=lb-36497927\" target=\"_blank\">vs148</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Community open data schemas"
+      },
+      {
+        "title": "Creating a new schema",
+        "body": "<p>You may want to create a new schema if&nbsp;none exist&nbsp;in the LGA directory that matches your dataset and you can&#39;t find one from another community. If you need to create a new schema, make sure that it is as simple as possible, links to and references common URI &ndash; such as local authority name, services, unique reference numbers (see module 2 for more information) &ndash; and that you submit the results back to the&nbsp;<a href=\"http://schemas.opendata.esd.org.uk/\" target=\"_blank\">LGA community schema directory</a>.</p>",
+        "_graphic": {
+          "src": "course/en/assets/301936c4e7d37e6647647b3c3e5a305f0ae8a56f.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/science-futuristic-internet-high-computer-technology-142601674?src=lb-36497927\" target=\"_blank\">vs148</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Creating a new schema"
+      }
+    ]
+  },
+  {
+    "_id": "587e3fefb61c46e176e7e48f",
+    "_layout": "right",
+    "_parentId": "587e3feeb61c46e176e7e431",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2e14bb666f0b440e01a1e6e5a4dbd446aa325cf3.jpg",
+      "small": "course/en/assets/2e14bb666f0b440e01a1e6e5a4dbd446aa325cf3.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/network-hexagonal-color-technology-communication-background-245326720\" target=\"_blank\">Omelchenko </a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "587e3fefb61c46e176e7e4d7",
+    "_layout": "right",
+    "_parentId": "587e3feeb61c46e176e7e435",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/39dd7ab8c3ce4c1cae1f1bb14f189b5c452699a5.jpg",
+      "small": "course/en/assets/39dd7ab8c3ce4c1cae1f1bb14f189b5c452699a5.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/group-arrows-gear-wheels-speech-bubbles-239488546?src=id\" target=\"_blank\">GiDesign</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "584080004d7b7e82691e4b73",
+    "_layout": "right",
+    "_parentId": "58407fe74d7b7e82691e4b71",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
+      "small": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty - Freepik.com </a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "584ebfbe4e62ce485eb1453b",
+    "_layout": "right",
+    "_parentId": "584ebfa34e62ce485eb14535",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/819c25e749d3a1b08083964d1604b8f29aedc806.png",
+      "small": "course/en/assets/819c25e749d3a1b08083964d1604b8f29aedc806.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\"> Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58407c584d7b7e82691e4b6b",
+    "_layout": "left",
+    "_parentId": "58407c4e4d7b7e82691e4b6a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/819c25e749d3a1b08083964d1604b8f29aedc806.png",
+      "small": "course/en/assets/819c25e749d3a1b08083964d1604b8f29aedc806.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\"> Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "584131e34d7b7e82691e4b7d",
+    "_layout": "left",
+    "_parentId": "584131cf4d7b7e82691e4b7b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "white",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6ab98b5ebf05188c63a217fa1728fa3b3ee19f3d.png",
+      "small": "course/en/assets/6ab98b5ebf05188c63a217fa1728fa3b3ee19f3d.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business Transparent image\" target=\"_blank\">Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5891f7e4b61c46e176e7f053",
+    "_layout": "right",
+    "_parentId": "5891f782b61c46e176e7f051",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
+      "small": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\"> Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "584ee3514e62ce485eb14587",
+    "_layout": "right",
+    "_parentId": "584ee3424e62ce485eb14585",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "white",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6ab98b5ebf05188c63a217fa1728fa3b3ee19f3d.png",
+      "small": "course/en/assets/6ab98b5ebf05188c63a217fa1728fa3b3ee19f3d.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business Transparent image\" target=\"_blank\">Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "584ee3834e62ce485eb14589",
+    "_layout": "left",
+    "_parentId": "584ee3694e62ce485eb14588",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
+      "small": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\"> Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "584eb2554e62ce485eb144fa",
+    "_layout": "left",
+    "_parentId": "584eb2474e62ce485eb144f9",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+      "small": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/3d-illustration-concept-data-179384507?src=lb-35924366\" target=\"_blank\">leromin</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58a1c736fda9f5660ad84ad2",
+    "_layout": "right",
+    "_parentId": "58a1c736fda9f5660ad84ad1",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
+      "small": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty - Freepik.com </a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58a04844fda9f5660ad84a5c",
+    "_layout": "left",
+    "_parentId": "589b3048fda9f5660ad84a38",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/cdce8ea3ed04a12e226ca17c8e5be93fffe1fb11.png",
+      "small": "course/en/assets/cdce8ea3ed04a12e226ca17c8e5be93fffe1fb11.png",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-134315933.html\" target=\"_blank\">Photoraiz</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
     "_id": "5899d5c7fda9f5660ad84589",
     "_layout": "full",
     "_parentId": "5899d5b2fda9f5660ad84586",
@@ -5339,7 +5212,8 @@
         "body": "<p>Open data enables citizens to hold their governments to account.</p><p>Open data startup <a href=\"https://www.spendnetwork.com/\" target=\"_blank\">Spend Network</a> analyses public spend data by sector, theme, region and supplier.</p><p>In the run up to the decision to proceed with the building of Hinkley Point Nuclear Power Station, Sedgemoor District Council <a href=\"http://www.sedgemoor.gov.uk/CIM/\" target=\"_blank\">openly published data </a>about the potential impact of the proposed plant as well as proposals&nbsp;to mitigate negative impacts.</p>",
         "_graphic": {
           "src": "course/en/assets/170d960b725c91812fae6048d9f660cc78de393b.jpeg",
-          "alt": ""
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-203736538\" target=\"_blank\">Digital Storm</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
         },
         "strapline": "Transparency"
       },
@@ -5348,7 +5222,8 @@
         "body": "<p>Better use of data can improve services on a local, regional or national level.</p><p>Lancashire County Council and&nbsp;Chorley Borough Council are working with other councils and local service delivery partners to standardise online service&nbsp;data to drive apps that make for easier discovery and meet citizens&#39; needs. You can read more about this project <a href=\"http://about.esd.org.uk/news/vision-finding-right-local-services\" target=\"_blank\">here</a>.</p><p>Open data&nbsp;published by local authorities&nbsp;was essential in the construction of the <a href=\"https://greatbritishpublictoiletmap.rca.ac.uk/about\" target=\"_blank\">Great British Toilet Map</a>, an openly licensed map which shows users where the nearest available toilets are to them across the United Kingdom.</p>",
         "_graphic": {
           "src": "course/en/assets/c0eca1e9dde2d00c75333a3690c8ba35d98c1d3c.jpg",
-          "alt": ""
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/colored-paper-pointers-signs-navigation-mapvector-154597898\" target=\"_blank\">Leone_V</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
         },
         "strapline": "Improving services"
       },
@@ -5357,7 +5232,8 @@
         "body": "<p dir=\"ltr\">In Leicester, the&nbsp;<a href=\"https://leics.police.uk/categories/braunstone-blues\" target=\"_blank\">Braunstone Blues initiative</a>&nbsp;is reducing the demand on blue light emergency services by consistent offenders. Councils,&nbsp;voluntary groups and emergency services are sharing data and breaking down silos to better understand the needs and aspirations on the citizens who regularly call the emergency blue light services.</p><p dir=\"ltr\">Manchester City Council has been working to <a href=\"http://www.nesta.org.uk/news/eight-ways-councils-are-using-data-create-better-services/getting-whole-picture\" target=\"_blank\">build a data warehouse across local government</a> and other local public service providers. The data warehouse enables frontline staff to access data&nbsp;in a matter of seconds &ndash;&nbsp;data that would take a human hours or days to retrieve from different IT systems.<strong> </strong></p><p dir=\"ltr\">Calderdale council is creating a <a href=\"http://dataworks.calderdale.gov.uk/ofsted-reporting-template/\" target=\"_blank\">standardised Ofsted reporting template</a> to use across all local authorities in the Yorkshire and Humber region. This standardisation means that the data collected will be more usable and help to build a more coherent picture of Ofsted in the area.</p>",
         "_graphic": {
           "src": "course/en/assets/099adb319c4910eec7c518c71cb42752af62327c.jpg",
-          "alt": ""
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/data-transferring-285210746\" target=\"_blank\">Horscope </a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
         },
         "strapline": "Increasing efficiency"
       },
@@ -5366,10 +5242,149 @@
         "body": "<p><a href=\"http://www.wandsworth.gov.uk/opencouncil\" target=\"_blank\">Wandsworth&#39;s Open Council</a> makes it easy for residents to see the borough&#39;s performance. Residents can directly comment and vote on different performance indicators.&nbsp;</p><p><a href=\"http://www.local.gov.uk/research-youchoose-tool\" target=\"_blank\">YouChoose</a>&nbsp;is an online budget simulator that enables citizens to feed into the council&#39;s budget priorities. Originally developed by the London Borough of Redbridge to engage its citizens in the difficult decisions that arise from budget reductions,&nbsp;the tool is now being adopted in other authorities across the country.</p>",
         "_graphic": {
           "src": "course/en/assets/0906f449a4639090ea7a59cef4c8ea9051af9e5a.jpg",
-          "alt": ""
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-164731838.html\" target=\"_blank\">STH</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
         },
         "strapline": "Empowering citizens"
       }
     ]
+  },
+  {
+    "_id": "584eb62d4e62ce485eb14513",
+    "_layout": "right",
+    "_parentId": "584eb61f4e62ce485eb14512",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7a60285b6b24a9a072771eb1b039c037a3b49ead.png",
+      "small": "course/en/assets/7a60285b6b24a9a072771eb1b039c037a3b49ead.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">http://www.freepik.com/free-photos-vectors/business</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5898b5abfda9f5660ad84563",
+    "_layout": "left",
+    "_parentId": "5898b5abfda9f5660ad84561",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/129d64c8646a967c58fe53c0e19103e1bc14f07e.jpg",
+      "small": "course/en/assets/129d64c8646a967c58fe53c0e19103e1bc14f07e.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/office-organizational-corporate-hierarchy-tree-chart-199692071\" target=\"_blank\">Ing Andrej Kaprinay</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5899eabefda9f5660ad84591",
+    "_layout": "right",
+    "_parentId": "5899eabefda9f5660ad84590",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+      "small": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/3d-illustration-concept-data-179384507?src=lb-35924366\" target=\"_blank\">leromin</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58a04cbefda9f5660ad84a76",
+    "_layout": "left",
+    "_parentId": "58a04c73fda9f5660ad84a75",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
+      "small": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty - Freepik.com </a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "586e66c5b61c46e176e7e156",
+    "_layout": "right",
+    "_parentId": "586e66b3b61c46e176e7e154",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "white",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/099adb319c4910eec7c518c71cb42752af62327c.jpg",
+      "small": "course/en/assets/099adb319c4910eec7c518c71cb42752af62327c.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/data-transferring-285210746\" target=\"_blank\">Horscope </a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "586e67feb61c46e176e7e15c",
+    "_layout": "left",
+    "_parentId": "586e67e2b61c46e176e7e15a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/129d64c8646a967c58fe53c0e19103e1bc14f07e.jpg",
+      "small": "course/en/assets/129d64c8646a967c58fe53c0e19103e1bc14f07e.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/office-organizational-corporate-hierarchy-tree-chart-199692071\" target=\"_blank\">Ing Andrej Kaprinay</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
   }
 ]
