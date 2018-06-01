@@ -72,28 +72,28 @@
     "title": " "
   },
   {
-    "_id": "584131cf4d7b7e82691e4b7b",
-    "_parentId": "58407bad4d7b7e82691e4b63",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 7,
-    "_classes": "inverted color-four",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
     "_id": "58407c4e4d7b7e82691e4b6a",
     "_parentId": "58407bac4d7b7e82691e4b60",
     "_type": "block",
     "_isAvailable": true,
     "_isOptional": false,
-    "_trackingId": 8,
+    "_trackingId": 7,
     "_classes": "inverted color-two",
     "body": "",
     "displayTitle": "  ",
     "title": "  "
+  },
+  {
+    "_id": "584131cf4d7b7e82691e4b7b",
+    "_parentId": "58407bad4d7b7e82691e4b63",
+    "_type": "block",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 8,
+    "_classes": "inverted color-four",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
   },
   {
     "_id": "584eb2474e62ce485eb144f9",
@@ -216,28 +216,28 @@
     "title": " "
   },
   {
-    "_id": "5849a4534d7b7e82691e4e13",
-    "_parentId": "58407bad4d7b7e82691e4b63",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 19,
-    "_classes": "inverted color-four",
-    "body": "",
-    "displayTitle": "    ",
-    "title": "    "
-  },
-  {
     "_id": "584081b04d7b7e82691e4b75",
     "_parentId": "58407bac4d7b7e82691e4b60",
     "_type": "block",
     "_isAvailable": true,
     "_isOptional": false,
-    "_trackingId": 20,
+    "_trackingId": 19,
     "_classes": "inverted color-two",
     "body": "",
     "displayTitle": "   ",
     "title": "   "
+  },
+  {
+    "_id": "5849a4534d7b7e82691e4e13",
+    "_parentId": "58407bad4d7b7e82691e4b63",
+    "_type": "block",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 20,
+    "_classes": "inverted color-four",
+    "body": "",
+    "displayTitle": "    ",
+    "title": "    "
   },
   {
     "_id": "587e0997b61c46e176e7e1c4",
@@ -504,24 +504,12 @@
     "title": " "
   },
   {
-    "_id": "5854046eb61c46e176e7e0ed",
-    "_parentId": "58407bae4d7b7e82691e4b66",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 43,
-    "_classes": "inverted color-one section-banner",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
     "_id": "584ec3ac4e62ce485eb14543",
     "_parentId": "58407bac4d7b7e82691e4b60",
     "_type": "block",
     "_isAvailable": true,
     "_isOptional": false,
-    "_trackingId": 44,
+    "_trackingId": 43,
     "_classes": "inverted color-one",
     "body": "",
     "displayTitle": "  ",
@@ -533,11 +521,23 @@
     "_type": "block",
     "_isAvailable": true,
     "_isOptional": false,
-    "_trackingId": 45,
+    "_trackingId": 44,
     "_classes": "inverted color-one",
     "body": "",
     "displayTitle": "  ",
     "title": "  "
+  },
+  {
+    "_id": "5854046eb61c46e176e7e0ed",
+    "_parentId": "58407bae4d7b7e82691e4b66",
+    "_type": "block",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 45,
+    "_classes": "inverted color-one section-banner",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
   },
   {
     "_id": "587e0b33b61c46e176e7e1f3",
